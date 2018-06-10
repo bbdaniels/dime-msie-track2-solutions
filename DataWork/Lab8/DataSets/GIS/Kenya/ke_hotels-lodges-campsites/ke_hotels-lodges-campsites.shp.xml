@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>MacMillan Education Ltd.  1993.  Kenya Traveller's Map, Third Edition.  London and Oxford: MacMillan Education Ltd.</origin>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Nairobi, Kenya</pubplace><publish>RoK</publish></pubinfo>
+				<lworkcit>
+					<citeinfo>
+						<origin>World Resources Institute</origin>
+						<origin>Kenya Central Bureau of Statistics</origin>
+						<origin>International Livestock Research Institute</origin>
+						<title>Nature's Benefits in Kenya: An Atlas of Ecosystems and Human Well-Being</title>
+						<pubinfo><pubplace>Washington, DC</pubplace><publish>World Resources Institute</publish></pubinfo><onlink>http://www.wri.org/biodiv/pubs_description.cfm?pid=4279</onlink></citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">ke_hotels-lodges-campsites</ftname><title>Tourism Accomodations in Kenya</title><origin>United Nations Environment Programme (UNEP)/GRID-Nairobi.  1998.  Eastern Africa Coastal and Marine Resources Database.  Nairobi: UNEP/GRID-Nairobi.  Project description online at http://www.unep.org/eafatlas/dbke.htm  </origin><origin>Republic of Kenya (RoK).  2003.  Gazette Notice. 3976.  The Hotels and Restaurants (Classification of Hotels and Restaurants) Regulations, 1988. Vol. CV, No. 62.  Nairobi: RoK.</origin><othercit>Approximately placed by ILRI/WRI based on MacMillan Education Ltd.  1993, UNEP/GRID-Nairobi 1998, and RoK 1998</othercit><onlink Sync="TRUE">\\WRICSAP029333\GIS\Working\Poverty_mapping_East_Africa\Map_files_posters_NEW\Final_products\Data_CD\Metadata_Oct31\Shapefiles\ke_hotels-lodges-campsites.shp</onlink></citeinfo>
+		</citation>
+		<descript>
+			<abstract>This dataset portrays tourist accomodations in Kenya</abstract>
+			<purpose>This data was used in Map 6.6 in Nature's Benefits in Kenya: An Atlas of Ecosystems and Human Well-Being.</purpose>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate/>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">34.424981</westbc>
+				<eastbc Sync="TRUE">41.326099</eastbc>
+				<northbc Sync="TRUE">3.547518</northbc>
+				<southbc Sync="TRUE">-4.638931</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">34.424981</leftbc><rightbc Sync="TRUE">41.326099</rightbc><bottombc Sync="TRUE">-4.638931</bottombc><topbc Sync="TRUE">3.547518</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekey>tourism</themekey>
+				<themekey>accommodations</themekey><themekey>hotels</themekey><themekey>lodges</themekey><themekey>campsites</themekey><themekey>economy</themekey><themekey>structure</themekey></theme>
+			<place>
+				<placekt>None</placekt>
+				<placekey>Kenya</placekey>
+				<placekey>Africa</placekey>
+			</place>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst>Data set is not for use in litigation. While efforts have been made to ensure that these data are accurate and reliable within the state of the art, WRI, cannot assume liability for any damages, or misrepresentations, caused by any inaccuracies in the data, or as a result of the data to be used on a particular system. WRI makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>World Resources Institute</cntorg>
+				</cntorgp>
+				<cntpos>GIS Lab Manager</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>10 G Street NE Suite 800</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20002</postal>
+					<country>U.S.A</country>
+				</cntaddr>
+				<cntvoice>202-729-7600</cntvoice>
+				<cntfax>202-729-7686</cntfax>
+			</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.0.1324</native>
+		<natvform Sync="TRUE">Shapefile</natvform></idinfo>
+	<dataqual>
+		<posacc>
+			<horizpa>
+				<qhorizpa></qhorizpa>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>&lt;additional citation, if needed&gt;</origin>
+						<origin>&lt;additional citation, if needed&gt;</origin>
+						<pubinfo></pubinfo>
+						<lworkcit>
+							<citeinfo></citeinfo>
+						</lworkcit>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate></sngdate>
+					</timeinfo>
+				</srctime>
+			</srcinfo>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">J:\Groups\BRP\Staff folders\JWorms\Metadata\kenya_template4-final.xml</srcused><date Sync="TRUE">20070522</date><time Sync="TRUE">17243400</time></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="ke_hotels-lodges-campsites">
+				<sdtstype Sync="TRUE">Entity point</sdtstype>
+				<ptvctcnt Sync="TRUE">121</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="ke_hotels-lodges-campsites"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Point</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">121</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres Sync="TRUE">0.000000</latres>
+				<longres Sync="TRUE">0.000000</longres>
+				<geogunit Sync="TRUE">Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1927</horizdn>
+				<ellips Sync="TRUE">Clarke 1866</ellips>
+				<semiaxis Sync="TRUE">6378206.400000</semiaxis>
+				<denflat Sync="TRUE">294.978698</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_Assumed_Geographic_1</geogcsn></cordsysn></horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="ke_hotels-lodges-campsites">
+			<enttyp>
+				<enttypl Sync="TRUE">ke_hotels-lodges-campsites</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">121</enttypc></enttyp>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr><attrlabl Sync="TRUE">NAME</attrlabl><attalias Sync="TRUE">NAME</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">25</attwidth><attrdef>Name of infrastructure</attrdef></attr><attr><attrlabl Sync="TRUE">TYPE</attrlabl><attalias Sync="TRUE">TYPE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">16</attwidth><attrdef>Type of infrastructure</attrdef></attr></detailed>
+		<overview></overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>World Resources Institute</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>World Resources Institute</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20002</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>202-729-7600</cntvoice>
+				<cntfax>202-729-7686</cntfax>
+				<cntemail></cntemail>
+			</cntinfo>
+		</distrib>
+		<resdesc>Downloadable Data</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>6.717</transize>
+					<dssize Sync="TRUE">0.003</dssize></digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20071031</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>World Resources Institute</cntorg>
+				</cntorgp>
+				<cntpos>GIS Lab Manager</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>10 G Street NE, Suite 800</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20002</postal>
+					<country>U.S.A</country>
+				</cntaddr>
+				<cntvoice>202-729-7600</cntvoice>
+				<cntfax>202-279-7686</cntfax>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><CreaDate>20070522</CreaDate><CreaTime>17243400</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20071031</SyncDate><SyncTime>09411700</SyncTime><ModDate>20071031</ModDate><ModTime>09413400</ModTime><MetaID>{F3B63999-3E55-4FF5-B571-7B8D421713F1}</MetaID></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.0.1324</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">ke_hotels-lodges-campsites</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">34.424981</westBL><eastBL Sync="TRUE">41.326099</eastBL><northBL Sync="TRUE">3.547518</northBL><southBL Sync="TRUE">-4.638931</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">34.424981</westBL><eastBL Sync="TRUE">41.326099</eastBL><northBL Sync="TRUE">3.547518</northBL><southBL Sync="TRUE">-4.638931</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\WRICSAP029333\GIS\Working\Poverty_mapping_East_Africa\Map_files_posters_NEW\Final_products\Data_CD\Metadata_Oct31\Shapefiles\ke_hotels-lodges-campsites.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">0.003</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">GCS_Assumed_Geographic_1</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="ke_hotels-lodges-campsites"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="004"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">121</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20071031</mdDateSt></metadata>

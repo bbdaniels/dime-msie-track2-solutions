@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>World Conservation Union (IUCN) and UNEP/WCMC.  2006.  2006 World Database on Protected Areas.  Cambridge, UK: IUCN and UNEP/WCMC.</origin>
+				<pubdate>2006</pubdate>
+				<title Sync="TRUE">ke_protected-areas</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Cambridge, UK</pubplace>
+					<publish>IUCN and UNEP/WCMC</publish>
+				</pubinfo>
+				<lworkcit>
+					<citeinfo>
+						<origin>World Resources Institute</origin>
+						<origin>Kenya Central Bureau of Statistics</origin>
+						<origin>International Livestock Research Institute</origin>
+						<title>Nature's Benefits: An Atlas of Ecosystems and Human Well-Being in Kenya</title>
+						<onlink>http://www.wri.org/biodiv/pubs_description.cfm?pid=4279 </onlink></citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">ke_protected-areas</ftname><onlink Sync="TRUE">\\WRICSAP029333\GIS\Working\Poverty_mapping_East_Africa\Map_files_posters_NEW\Final_products\Data_CD\Metadata_Oct31\Shapefiles\ke_protected-areas</onlink></citeinfo>
+		</citation>
+		<descript>
+			<abstract>This dataset shows protected areas in Kenya.</abstract>
+			<purpose>This data was used in maps throughout Nature's Benefits in Kenya: An Atlas of Ecosystems and Human Well-Being.</purpose>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate><caldate>2007</caldate></sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">34.001590</westbc>
+				<eastbc Sync="TRUE">41.563800</eastbc>
+				<northbc Sync="TRUE">4.271370</northbc>
+				<southbc Sync="TRUE">-4.746260</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">34.001590</leftbc><rightbc Sync="TRUE">41.563800</rightbc><bottombc Sync="TRUE">-4.746260</bottombc><topbc Sync="TRUE">4.271370</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekey>parks</themekey>
+				<themekey>protected areas</themekey><themekey>environment</themekey><themekey>boundaries</themekey></theme>
+			<place>
+				<placekt>None</placekt>
+				<placekey>Kenya</placekey>
+				<placekey>Africa</placekey>
+			</place>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst>Data set is not for use in litigation. While efforts have been made to ensure that these data are accurate and reliable within the state of the art, WRI, cannot assume liability for any damages, or misrepresentations, caused by any inaccuracies in the data, or as a result of the data to be used on a particular system. WRI makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>World Resources Institute</cntorg>
+				</cntorgp>
+				<cntpos>GIS Lab Manager</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>10 G Street NE Suite 800</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20002</postal>
+					<country>U.S.A</country>
+				</cntaddr>
+				<cntvoice>202-729-7600</cntvoice>
+				<cntfax>202-729-7686</cntfax>
+			</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.0.1324</native>
+		<natvform Sync="TRUE">Shapefile</natvform></idinfo>
+	<dataqual>
+		<posacc>
+			<horizpa>
+				<qhorizpa></qhorizpa>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>&lt;additional citation, if needed&gt;</origin>
+						<origin>&lt;additional citation, if needed&gt;</origin>
+						<geoform>map</geoform>
+						<pubinfo></pubinfo>
+						<lworkcit>
+							<citeinfo></citeinfo>
+						</lworkcit>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate></sngdate>
+					</timeinfo>
+				</srctime>
+			</srcinfo>
+			<procstep></procstep>
+			<procstep>
+				<procdesc></procdesc>
+			</procstep>
+			<procstep>
+				<procdesc></procdesc>
+			</procstep>
+			<procstep>
+				<procdesc></procdesc>
+			</procstep>
+			<procstep>
+				<procdesc></procdesc>
+			</procstep>
+			<procstep>
+				<procdesc></procdesc>
+			</procstep>
+			<procstep>
+				<procdesc></procdesc>
+				<srcused></srcused>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\DOCUME~1\JNACKO~1\LOCALS~1\Temp\xml33.tmp</srcused>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\DOCUME~1\jworms\LOCALS~1\Temp\xml61.tmp</srcused><date Sync="TRUE">20061208</date><time Sync="TRUE">12003100</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">J:\groups\BRP\Staff folders\JWorms\Metadata\national_new_people</srcused><date Sync="TRUE">20070306</date><time Sync="TRUE">11211400</time></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\Documents and Settings\Florence.Landsberg\Desktop\Metadata_Oct23\Shapefiles\ke_protected-areas2.shp.xml</srcused><date Sync="TRUE">20071031</date><time Sync="TRUE">16322900</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">C:\Documents and Settings\Florence.Landsberg\Desktop\Metadata_Oct23\Shapefiles\ke_protected-areas</srcused><date Sync="TRUE">20071031</date><time Sync="TRUE">16332100</time></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="ke_protected-areas">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">203</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="ke_protected-areas"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polygon</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">203</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres Sync="TRUE">0.000000</latres>
+				<longres Sync="TRUE">0.000000</longres>
+				<geogunit Sync="TRUE">Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1927</horizdn>
+				<ellips Sync="TRUE">Clarke 1866</ellips>
+				<semiaxis Sync="TRUE">6378206.400000</semiaxis>
+				<denflat Sync="TRUE">294.978698</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_Assumed_Geographic_1</geogcsn></cordsysn></horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="ke_protected-areas">
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr><attrlabl Sync="TRUE">AREANAME</attrlabl><attalias Sync="TRUE">AREANAME</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">9</attwidth><attrdef>Name of Protected Area</attrdef></attr><attr><attrlabl Sync="TRUE">FID_New_am</attrlabl><attalias Sync="TRUE">FID_New_am</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">15</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr><attr><attrlabl Sync="TRUE">AREA</attrlabl><attalias Sync="TRUE">AREA</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">15</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr><attr><attrlabl Sync="TRUE">PERIMETER</attrlabl><attalias Sync="TRUE">PERIMETER</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">PARKNEWDD_</attrlabl><attalias Sync="TRUE">PARKNEWDD_</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">PARKNEWDD1</attrlabl><attalias Sync="TRUE">PARKNEWDD1</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">20</attwidth></attr><attr><attrlabl Sync="TRUE">NAME</attrlabl><attalias Sync="TRUE">NAME</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">1</attwidth></attr><attr><attrlabl Sync="TRUE">PTA</attrlabl><attalias Sync="TRUE">PTA</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">9</attwidth></attr><attr><attrlabl Sync="TRUE">FID_nation</attrlabl><attalias Sync="TRUE">FID_nation</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">120</attwidth></attr><attr><attrlabl Sync="TRUE">DESIGNATE</attrlabl><attalias Sync="TRUE">DESIGNATE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">3</attwidth><attrdef>Designation</attrdef></attr><attr><attrlabl Sync="TRUE">ISO3</attrlabl><attalias Sync="TRUE">ISO3</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">LAT</attrlabl><attalias Sync="TRUE">LAT</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">LON</attrlabl><attalias Sync="TRUE">LON</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">100</attwidth></attr><attr><attrlabl Sync="TRUE">IUCNCAT</attrlabl><attalias Sync="TRUE">IUCNCAT</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">80</attwidth><attrdef>IUCN Category (Ia: Strict Nature Reserve: protected area managed mainly for science; Ib: Wilderness Area: protected area managed mainly for wilderness protection; II: National Park: protected area managed mainly for ecosystem protection and recreation; III: Natural Monument: protected area managed mainly for conservation of specific natural features; IV: Habitat/Species Management Area: protected area managed mainly for conservation through management intervention; V: Protected Landscape/Seascape: protected area managed mainly for landscape/seascape conservation and recreation; VI: Managed Resource Protected Area: protected area managed mainly for the sustainable use of natural ecosystems)</attrdef></attr><attr><attrlabl Sync="TRUE">GISNAME</attrlabl><attalias Sync="TRUE">GISNAME</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">6</attwidth></attr><attr><attrlabl Sync="TRUE">SOURCE_ID</attrlabl><attalias Sync="TRUE">SOURCE_ID</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">8</attwidth></attr><attr><attrlabl Sync="TRUE">MARINE</attrlabl><attalias Sync="TRUE">MARINE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">30</attwidth><attrdef>Marine Protected Area? Yes (Y) or No (N)</attrdef></attr><attr><attrlabl Sync="TRUE">STATUS</attrlabl><attalias Sync="TRUE">STATUS</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">SHAPE_LENG</attrlabl><attalias Sync="TRUE">SHAPE_LENG</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">SHAPE_AREA</attrlabl><attalias Sync="TRUE">SHAPE_AREA</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">7</attwidth><attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">SITE_CODE</attrlabl><attalias Sync="TRUE">SITE_CODE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth></attr><attr><attrlabl Sync="TRUE">COUNTRY</attrlabl><attalias Sync="TRUE">COUNTRY</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth></attr><attr><attrlabl Sync="TRUE">EST_DATE</attrlabl><attalias Sync="TRUE">EST_DATE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth><attrdef>Date of establishment</attrdef></attr><attr><attrlabl Sync="TRUE">POLY</attrlabl><attalias Sync="TRUE">POLY</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">200</attwidth></attr><attr><attrlabl Sync="TRUE">ADMIN</attrlabl><attalias Sync="TRUE">ADMIN</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">200</attwidth></attr><attr><attrlabl Sync="TRUE">MANAGEMENT</attrlabl><attalias Sync="TRUE">MANAGEMENT</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth></attr><attr><attrlabl Sync="TRUE">OWNER</attrlabl><attalias Sync="TRUE">OWNER</attalias><attrtype Sync="TRUE">Date</attrtype><attwidth Sync="TRUE">8</attwidth></attr><attr><attrlabl Sync="TRUE">AREA_HA</attrlabl><attalias Sync="TRUE">AREA_HA</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">5</atnumdec><attrdef>Area (hectares)</attrdef></attr><enttyp>
+				<enttypl Sync="TRUE">ke_protected-areas</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">203</enttypc></enttyp>
+			<attr><attrlabl Sync="TRUE">NOTES</attrlabl><attalias Sync="TRUE">NOTES</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth></attr><attr><attrlabl Sync="TRUE">SOURCE</attrlabl><attalias Sync="TRUE">SOURCE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth></attr><attr><attrlabl Sync="TRUE">Z000_VISIT</attrlabl><attalias Sync="TRUE">Z000_VISIT</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">6</attwidth><atnumdec Sync="TRUE">1</atnumdec></attr><attr><attrlabl Sync="TRUE">VISTOR_HA</attrlabl><attalias Sync="TRUE">VISTOR_HA</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">5</atnumdec></attr><attr><attrlabl Sync="TRUE">PERC_VISIT</attrlabl><attalias Sync="TRUE">PERC_VISIT</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">18</attwidth><atnumdec Sync="TRUE">2</atnumdec></attr><attr><attrlabl Sync="TRUE">AREA_SQKM_</attrlabl><attalias Sync="TRUE">AREA_SQKM_</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">6</atnumdec></attr><attr><attrlabl Sync="TRUE">FID_nati_1</attrlabl><attalias Sync="TRUE">FID_nati_1</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">9</attwidth></attr><attr><attrlabl Sync="TRUE">AREANAME_1</attrlabl><attalias Sync="TRUE">AREANAME_1</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">120</attwidth></attr><attr><attrlabl Sync="TRUE">ISO3_1</attrlabl><attalias Sync="TRUE">ISO3_1</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">LAT_1</attrlabl><attalias Sync="TRUE">LAT_1</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">LON_1</attrlabl><attalias Sync="TRUE">LON_1</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">DESIGNAT_1</attrlabl><attalias Sync="TRUE">DESIGNAT_1</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">100</attwidth></attr><attr><attrlabl Sync="TRUE">GISNAME_1</attrlabl><attalias Sync="TRUE">GISNAME_1</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">80</attwidth></attr><attr><attrlabl Sync="TRUE">SOURCE_I_1</attrlabl><attalias Sync="TRUE">SOURCE_I_1</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">6</attwidth></attr><attr><attrlabl Sync="TRUE">IUCNCAT_1</attrlabl><attalias Sync="TRUE">IUCNCAT_1</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">8</attwidth></attr><attr><attrlabl Sync="TRUE">STATUS_1</attrlabl><attalias Sync="TRUE">STATUS_1</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">30</attwidth></attr><attr><attrlabl Sync="TRUE">SHAPE_LE_1</attrlabl><attalias Sync="TRUE">SHAPE_LE_1</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">SHAPE_AR_1</attrlabl><attalias Sync="TRUE">SHAPE_AR_1</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">SITE_COD_1</attrlabl><attalias Sync="TRUE">SITE_COD_1</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">7</attwidth></attr><attr><attrlabl Sync="TRUE">COUNTRY_1</attrlabl><attalias Sync="TRUE">COUNTRY_1</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth></attr><attr><attrlabl Sync="TRUE">MARINE_1</attrlabl><attalias Sync="TRUE">MARINE_1</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth></attr><attr><attrlabl Sync="TRUE">POLY_1</attrlabl><attalias Sync="TRUE">POLY_1</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth></attr><attr><attrlabl Sync="TRUE">ADMIN_1</attrlabl><attalias Sync="TRUE">ADMIN_1</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">200</attwidth></attr><attr><attrlabl Sync="TRUE">MANAGEME_1</attrlabl><attalias Sync="TRUE">MANAGEME_1</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">200</attwidth></attr><attr><attrlabl Sync="TRUE">OWNER_1</attrlabl><attalias Sync="TRUE">OWNER_1</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth></attr><attr><attrlabl Sync="TRUE">EST_DATE_1</attrlabl><attalias Sync="TRUE">EST_DATE_1</attalias><attrtype Sync="TRUE">Date</attrtype><attwidth Sync="TRUE">8</attwidth></attr><attr><attrlabl Sync="TRUE">AREA_HA_1</attrlabl><attalias Sync="TRUE">AREA_HA_1</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">5</atnumdec></attr><attr><attrlabl Sync="TRUE">NOTES_1</attrlabl><attalias Sync="TRUE">NOTES_1</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth></attr><attr><attrlabl Sync="TRUE">SOURCE_1</attrlabl><attalias Sync="TRUE">SOURCE_1</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth></attr><attr><attrlabl Sync="TRUE">Z000_VIS_1</attrlabl><attalias Sync="TRUE">Z000_VIS_1</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">6</attwidth><atnumdec Sync="TRUE">1</atnumdec></attr><attr><attrlabl Sync="TRUE">VISTOR_H_1</attrlabl><attalias Sync="TRUE">VISTOR_H_1</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">5</atnumdec></attr><attr><attrlabl Sync="TRUE">PERC_VIS_1</attrlabl><attalias Sync="TRUE">PERC_VIS_1</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">18</attwidth><atnumdec Sync="TRUE">2</atnumdec></attr><attr><attrlabl Sync="TRUE">AREA_SQKM1</attrlabl><attalias Sync="TRUE">AREA_SQKM1</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">6</atnumdec></attr></detailed>
+		<overview></overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>World Resources Institute</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>World Resources Institute</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20002</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>202-729-7600</cntvoice>
+				<cntfax>202-729-7686</cntfax>
+				<cntemail></cntemail>
+			</cntinfo>
+		</distrib>
+		<resdesc>Downloadable Data</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>6.717</transize>
+					<dssize Sync="TRUE">0.447</dssize></digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20071031</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>World Resources Institute</cntorg>
+				</cntorgp>
+				<cntpos>GIS Lab Manager</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>10 G Street NE, Suite 800</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20002</postal>
+					<country>U.S.A</country>
+				</cntaddr>
+				<cntvoice>202-729-7600</cntvoice>
+				<cntfax>202-279-7686</cntfax>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><CreaDate>20071031</CreaDate><CreaTime>16332100</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20071031</SyncDate><SyncTime>16323300</SyncTime><ModDate>20071031</ModDate><ModTime>16323300</ModTime><DataProperties><lineage><Process Name="DefineProjection_8" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\DefineProjection" Date="20070522" Time="134822">DefineProjection "J:\Groups\BRP\Staff folders\JWorms\Metadata\GIS-files\national_new_people.shp" GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]] "J:\Groups\BRP\Staff folders\JWorms\Metadata\GIS-files\national_new_people.shp"</Process></lineage></DataProperties><MetaID>{E5F3B5DD-CC36-40BF-931E-AA5270159A3C}</MetaID></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.0.1324</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">ke_protected-areas</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">34.00159</westBL><eastBL Sync="TRUE">41.5638</eastBL><northBL Sync="TRUE">4.27137</northBL><southBL Sync="TRUE">-4.74626</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">34.00159</westBL><eastBL Sync="TRUE">41.5638</eastBL><northBL Sync="TRUE">4.27137</northBL><southBL Sync="TRUE">-4.74626</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\WRICSAP029333\GIS\Working\Poverty_mapping_East_Africa\Map_files_posters_NEW\Final_products\Data_CD\Metadata_Oct31\Shapefiles\ke_protected-areas</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">0.447</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">GCS_Assumed_Geographic_1</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="ke_protected-areas"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">203</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20071031</mdDateSt></metadata>

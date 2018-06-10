@@ -1,0 +1,328 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","TYPE_2","ENGTYPE_2","NL_NAME_2","VARNAME_2"
+1,149,"MNG","Mongolia",1,"Ömnögovi",1,"Bayan-Ovoo","Soum","Sum","<U+0411><U+0430><U+044F><U+043D>-<U+041E><U+0432><U+043E><U+043E>",NA
+2,149,"MNG","Mongolia",1,"Ömnögovi",2,"Bayandalai","Soum","Sum","<U+0411><U+0430><U+044F><U+043D><U+0434><U+0430><U+043B><U+0430><U+0439>",NA
+3,149,"MNG","Mongolia",1,"Ömnögovi",3,"Bulgan","Soum","Sum","	<U+0411><U+0443><U+043B><U+0433><U+0430><U+043D>",NA
+4,149,"MNG","Mongolia",1,"Ömnögovi",4,"Dalanzadgad","Soum","Sum","	<U+0414><U+0430><U+043B><U+0430><U+043D><U+0437><U+0430><U+0434><U+0433><U+0430><U+0434>",NA
+5,149,"MNG","Mongolia",1,"Ömnögovi",5,"Gurvan tes","Soum","Sum","	<U+0413><U+0443><U+0440><U+0432><U+0430><U+043D> <U+0442><U+044D><U+0441>","Gurvantes"
+6,149,"MNG","Mongolia",1,"Ömnögovi",6,"Khürmen","Soum","Sum","<U+0425><U+04AF><U+0440><U+043C><U+044D><U+043D>","Hurmen"
+7,149,"MNG","Mongolia",1,"Ömnögovi",7,"Khan khongor","Soum","Sum","<U+0425><U+0430><U+043D> <U+0445><U+043E><U+043D><U+0433><U+043E><U+0440>","Hanhongor"
+8,149,"MNG","Mongolia",1,"Ömnögovi",8,"Khanbogd","Soum","Sum","<U+0425><U+0430><U+043D><U+0431><U+043E><U+0433><U+0434>","Hanbogd"
+9,149,"MNG","Mongolia",1,"Ömnögovi",9,"Mandal-Ovoo","Soum","Sum","<U+041C><U+0430><U+043D><U+0434><U+0430><U+043B>-<U+041E><U+0432><U+043E><U+043E>",NA
+10,149,"MNG","Mongolia",1,"Ömnögovi",10,"Manlai","Soum","Sum","<U+041C><U+0430><U+043D><U+043B><U+0430><U+0439>",NA
+11,149,"MNG","Mongolia",1,"Ömnögovi",11,"Nomgon","Soum","Sum","	<U+041D><U+043E><U+043C><U+0433><U+043E><U+043D>",NA
+12,149,"MNG","Mongolia",1,"Ömnögovi",12,"Noyon","Soum","Sum","<U+041D><U+043E><U+0451><U+043D>",NA
+13,149,"MNG","Mongolia",1,"Ömnögovi",13,"Sevrei","Soum","Sum","	<U+0421><U+044D><U+0432><U+0440><U+044D><U+0439>",NA
+14,149,"MNG","Mongolia",1,"Ömnögovi",14,"Tsogt-Ovoo","Soum","Sum","<U+0426><U+043E><U+0433><U+0442>-<U+041E><U+0432><U+043E><U+043E>",NA
+15,149,"MNG","Mongolia",1,"Ömnögovi",15,"Tsogttsetsii","Soum","Sum","<U+0426><U+043E><U+0433><U+0442><U+0446><U+044D><U+0446><U+0438><U+0439>",NA
+16,149,"MNG","Mongolia",2,"Övörhangay",16,"Ölziit","Soum","Sum","	<U+04E8><U+043B><U+0437><U+0438><U+0439><U+0442>","Olziit"
+17,149,"MNG","Mongolia",2,"Övörhangay",17,"Arvaikheer","Soum","Sum","<U+0410><U+0440><U+0432><U+0430><U+0439><U+0445><U+044D><U+044D><U+0440>","Arvaiheer"
+18,149,"MNG","Mongolia",2,"Övörhangay",18,"Bürd","Soum","Sum","<U+0411><U+04AF><U+0440><U+0434>","Burd"
+19,149,"MNG","Mongolia",2,"Övörhangay",19,"Baruun Bayan-Ulaan","Soum","Sum","<U+0411><U+0430><U+0440><U+0443><U+0443><U+043D> <U+0411><U+0430><U+044F><U+043D>-<U+0423><U+043B><U+0430><U+0430><U+043D>","Baruunbayan-Ulaan"
+20,149,"MNG","Mongolia",2,"Övörhangay",20,"Bat-Ölzii","Soum","Sum","<U+0411><U+0430><U+0442>-<U+04E8><U+043B><U+0437><U+0438><U+0439>","Bat-Olzii"
+21,149,"MNG","Mongolia",2,"Övörhangay",21,"Bayan-Öndör","Soum","Sum","<U+0411><U+0430><U+044F><U+043D>-<U+04E8><U+043D><U+0434><U+04E9><U+0440>","Bayan-Ondor"
+22,149,"MNG","Mongolia",2,"Övörhangay",22,"Bayangol","Soum","Sum","<U+0411><U+0430><U+044F><U+043D><U+0433><U+043E><U+043B>",NA
+23,149,"MNG","Mongolia",2,"Övörhangay",23,"Bogd","Soum","Sum","<U+0411><U+043E><U+0433><U+0434>",NA
+24,149,"MNG","Mongolia",2,"Övörhangay",24,"Guchin-Us","Soum","Sum","<U+0413><U+0443><U+0447><U+0438><U+043D>-<U+0423><U+0441>",NA
+25,149,"MNG","Mongolia",2,"Övörhangay",25,"Khairkhandulaan","Soum","Sum","<U+0425><U+0430><U+0439><U+0440><U+0445><U+0430><U+043D><U+0434><U+0443><U+043B><U+0430><U+0430><U+043D>","Hairhandulaan"
+26,149,"MNG","Mongolia",2,"Övörhangay",26,"Kharkhorin","Soum","Sum","	<U+0425><U+0430><U+0440><U+0445><U+043E><U+0440><U+0438><U+043D>","Harhorin"
+27,149,"MNG","Mongolia",2,"Övörhangay",27,"Khujirt","Soum","Sum","<U+0425><U+0443><U+0436><U+0438><U+0440><U+0442>","Hujirt"
+28,149,"MNG","Mongolia",2,"Övörhangay",28,"Nariinteel","Soum","Sum","<U+041D><U+0430><U+0440><U+0438><U+0439><U+043D><U+0442><U+044D><U+044D><U+043B>",NA
+29,149,"MNG","Mongolia",2,"Övörhangay",29,"Sant","Soum","Sum","	<U+0421><U+0430><U+043D><U+0442>",NA
+30,149,"MNG","Mongolia",2,"Övörhangay",30,"Tögrög","Soum","Sum","	<U+0422><U+04E9><U+0433><U+0440><U+04E9><U+0433>","Togrog"
+31,149,"MNG","Mongolia",2,"Övörhangay",31,"Taragt","Soum","Sum","	<U+0422><U+0430><U+0440><U+0430><U+0433><U+0442>",NA
+32,149,"MNG","Mongolia",2,"Övörhangay",32,"Uyanga","Soum","Sum","	<U+0423><U+044F><U+043D><U+0433><U+0430>",NA
+33,149,"MNG","Mongolia",2,"Övörhangay",33,"Yesönzüil","Soum","Sum","	<U+0415><U+0441><U+04E9><U+043D><U+0437><U+04AF><U+0439><U+043B>","Eson-Zuil"
+34,149,"MNG","Mongolia",2,"Övörhangay",34,"Züünbayan-Ulaan","Soum","Sum","<U+0417><U+04AF><U+04AF><U+043D><U+0431><U+0430><U+044F><U+043D>-<U+0423><U+043B><U+0430><U+0430><U+043D>","Zuunbayan-Ulaan"
+35,149,"MNG","Mongolia",3,"Arhangay",35,"Ögii nuur","Soum","Sum","<U+04E8><U+0433><U+0438><U+0439> <U+043D><U+0443><U+0443><U+0440>","Ugiinuur"
+36,149,"MNG","Mongolia",3,"Arhangay",36,"Ölziit","Soum","Sum","<U+04E8><U+043B><U+0437><U+0438><U+0439><U+0442>","Ulziit"
+37,149,"MNG","Mongolia",3,"Arhangay",37,"Öndör-Ulaan","Soum","Sum","<U+04E8><U+043D><U+0434><U+04E9><U+0440>-<U+0423><U+043B><U+0430><U+0430><U+043D>","Ondor-Ulaan"
+38,149,"MNG","Mongolia",3,"Arhangay",38,"Battsengel","Soum","Sum","<U+0411><U+0430><U+0442><U+0446><U+044D><U+043D><U+0433><U+044D><U+043B>",NA
+39,149,"MNG","Mongolia",3,"Arhangay",39,"Bulgan","Soum","Sum","<U+0411><U+0443><U+043B><U+0433><U+0430><U+043D>",NA
+40,149,"MNG","Mongolia",3,"Arhangay",40,"Chuluut","Soum","Sum","<U+0427><U+0443><U+043B><U+0443><U+0443><U+0442>",NA
+41,149,"MNG","Mongolia",3,"Arhangay",41,"Erdenebulgan","Soum","Sum","<U+042D><U+0440><U+0434><U+044D><U+043D><U+044D><U+0431><U+0443><U+043B><U+0433><U+0430><U+043D>","Erdene-Bulgan"
+42,149,"MNG","Mongolia",3,"Arhangay",42,"Erdenemandal","Soum","Sum","<U+042D><U+0440><U+0434><U+044D><U+043D><U+044D><U+043C><U+0430><U+043D><U+0434><U+0430><U+043B>","Erdeenemandal"
+43,149,"MNG","Mongolia",3,"Arhangay",43,"Ikh-Tamir","Soum","Sum","<U+0418><U+0445> <U+0442><U+0430><U+043C><U+0438><U+0440>","Ih-Tamir"
+44,149,"MNG","Mongolia",3,"Arhangay",44,"Jargalant","Soum","Sum","<U+0416><U+0430><U+0440><U+0433><U+0430><U+043B><U+0430><U+043D><U+0442>",NA
+45,149,"MNG","Mongolia",3,"Arhangay",45,"Khairkhan","Soum","Sum","<U+0425><U+0430><U+0439><U+0440><U+0445><U+0430><U+043D>","Hairhan"
+46,149,"MNG","Mongolia",3,"Arhangay",46,"Khangai","Soum","Sum","<U+0425><U+0430><U+043D><U+0433><U+0430><U+0439>","Hangai"
+47,149,"MNG","Mongolia",3,"Arhangay",47,"Khashaat","Soum","Sum","<U+0425><U+0430><U+0448><U+0430><U+0430><U+0442>","Hashaat"
+48,149,"MNG","Mongolia",3,"Arhangay",48,"Khotont","Soum","Sum","<U+0425><U+043E><U+0442><U+043E><U+043D><U+0442>","Hotont"
+49,149,"MNG","Mongolia",3,"Arhangay",49,"Tüvshrüülekh","Soum","Sum","<U+0422><U+04AF><U+0432><U+0448><U+0440><U+04AF><U+04AF><U+043B><U+044D><U+0445>","Tuvshruuleh"
+50,149,"MNG","Mongolia",3,"Arhangay",50,"Tariat","Soum","Sum","<U+0422><U+0430><U+0440><U+0438><U+0430><U+0442>",NA
+51,149,"MNG","Mongolia",3,"Arhangay",51,"Tsakhir","Soum","Sum","<U+0426><U+0430><U+0445><U+0438><U+0440>","Tsahir"
+52,149,"MNG","Mongolia",3,"Arhangay",52,"Tsenkher","Soum","Sum","<U+0426><U+044D><U+043D><U+0445><U+044D><U+0440>","Tsenher"
+53,149,"MNG","Mongolia",3,"Arhangay",53,"Tsetserleg","Soum","Sum","<U+0426><U+044D><U+0446><U+044D><U+0440><U+043B><U+044D><U+0433>",NA
+54,149,"MNG","Mongolia",4,"Bayan-Ölgiy",54,"Ölgii (city)","Soum","Sum","<U+04E8><U+043B><U+0433><U+0438><U+0439>","Olgii"
+55,149,"MNG","Mongolia",4,"Bayan-Ölgiy",55,"Altai","Soum","Sum","<U+0410><U+043B><U+0442><U+0430><U+0439>",NA
+56,149,"MNG","Mongolia",4,"Bayan-Ölgiy",56,"Altantsögts","Soum","Sum","<U+0410><U+043B><U+0442><U+0430><U+043D><U+0446><U+04E9><U+0433><U+0446>","Altansogts"
+57,149,"MNG","Mongolia",4,"Bayan-Ölgiy",57,"Bayannuur","Soum","Sum","<U+0411><U+0430><U+044F><U+043D><U+043D><U+0443><U+0443><U+0440>",NA
+58,149,"MNG","Mongolia",4,"Bayan-Ölgiy",58,"Bugat","Soum","Sum","<U+0411><U+0443><U+0433><U+0430><U+0442>",NA
+59,149,"MNG","Mongolia",4,"Bayan-Ölgiy",59,"Bulgan","Soum","Sum","	<U+0411><U+0443><U+043B><U+0433><U+0430><U+043D>",NA
+60,149,"MNG","Mongolia",4,"Bayan-Ölgiy",60,"Buyant","Soum","Sum","	<U+0411><U+0443><U+044F><U+043D><U+0442>",NA
+61,149,"MNG","Mongolia",4,"Bayan-Ölgiy",61,"Delüün","Soum","Sum","<U+0414><U+044D><U+043B><U+04AF><U+04AF><U+043D>","Deluun"
+62,149,"MNG","Mongolia",4,"Bayan-Ölgiy",62,"Nogoonnuur","Soum","Sum","<U+041D><U+043E><U+0433><U+043E><U+043E><U+043D><U+043D><U+0443><U+0443><U+0440>",NA
+63,149,"MNG","Mongolia",4,"Bayan-Ölgiy",63,"Sagsai","Soum","Sum","<U+0421><U+0430><U+0433><U+0441><U+0430><U+0439>",NA
+64,149,"MNG","Mongolia",4,"Bayan-Ölgiy",64,"Tolbo","Soum","Sum","<U+0422><U+043E><U+043B><U+0431><U+043E>",NA
+65,149,"MNG","Mongolia",4,"Bayan-Ölgiy",65,"Tsagaannuur","Soum","Sum","<U+0426><U+0430><U+0433><U+0430><U+0430><U+043D><U+043D><U+0443><U+0443><U+0440>",NA
+66,149,"MNG","Mongolia",4,"Bayan-Ölgiy",66,"Tsengel","Soum","Sum","	<U+0426><U+044D><U+043D><U+0433><U+044D><U+043B>",NA
+67,149,"MNG","Mongolia",4,"Bayan-Ölgiy",67,"Ulaankhus","Soum","Sum","<U+0423><U+043B><U+0430><U+0430><U+043D><U+0445><U+0443><U+0441>","Ulaanhus"
+68,149,"MNG","Mongolia",5,"Bayanhongor",68,"Ölziit","Soum","Sum","	<U+04E8><U+043B><U+0437><U+0438><U+0439><U+0442>","Olziit"
+69,149,"MNG","Mongolia",5,"Bayanhongor",69,"Bömbögör","Soum","Sum","<U+0411><U+04E9><U+043C><U+0431><U+04E9><U+0433><U+04E9><U+0440>","Bombogor"
+70,149,"MNG","Mongolia",5,"Bayanhongor",70,"Baatsagaan","Soum","Sum","<U+0411><U+0430><U+0430><U+0446><U+0430><U+0433><U+0430><U+0430><U+043D>",NA
+71,149,"MNG","Mongolia",5,"Bayanhongor",71,"Bayan-Öndör","Soum","Sum","<U+0411><U+0430><U+044F><U+043D>-<U+04E8><U+043D><U+0434><U+04E9><U+0440>","Bayan-Ondor"
+72,149,"MNG","Mongolia",5,"Bayanhongor",72,"Bayan-Ovoo","Soum","Sum","<U+0411><U+0430><U+044F><U+043D>-<U+041E><U+0432><U+043E><U+043E>",NA
+73,149,"MNG","Mongolia",5,"Bayanhongor",73,"Bayanbulag","Soum","Sum","<U+0411><U+0430><U+044F><U+043D><U+0431><U+0443><U+043B><U+0430><U+0433>",NA
+74,149,"MNG","Mongolia",5,"Bayanhongor",74,"Bayangovi","Soum","Sum","<U+0411><U+0430><U+044F><U+043D><U+0433><U+043E><U+0432><U+044C>",NA
+75,149,"MNG","Mongolia",5,"Bayanhongor",75,"Bayankhongor","Soum","Sum","<U+0411><U+0430><U+044F><U+043D><U+0445><U+043E><U+043D><U+0433><U+043E><U+0440>","Bayanhongor"
+76,149,"MNG","Mongolia",5,"Bayanhongor",76,"Bayanlig","Soum","Sum","<U+0411><U+0430><U+044F><U+043D><U+043B><U+0438><U+0433>",NA
+77,149,"MNG","Mongolia",5,"Bayanhongor",77,"Bayantsagaan","Soum","Sum","<U+0411><U+0430><U+0430><U+0446><U+0430><U+0433><U+0430><U+0430><U+043D>","Bayansagaan"
+78,149,"MNG","Mongolia",5,"Bayanhongor",78,"Bogd","Soum","Sum","<U+0411><U+043E><U+0433><U+0434>",NA
+79,149,"MNG","Mongolia",5,"Bayanhongor",79,"Buutsagaan","Soum","Sum","<U+0411><U+0443><U+0443><U+0446><U+0430><U+0433><U+0430><U+0430><U+043D>",NA
+80,149,"MNG","Mongolia",5,"Bayanhongor",80,"Erdenetsogt","Soum","Sum","<U+042D><U+0440><U+0434><U+044D><U+043D><U+044D><U+0446><U+043E><U+0433><U+0442>",NA
+81,149,"MNG","Mongolia",5,"Bayanhongor",81,"Galuut","Soum","Sum","<U+0413><U+0430><U+043B><U+0443><U+0443><U+0442>",NA
+82,149,"MNG","Mongolia",5,"Bayanhongor",82,"Gurvanbulag","Soum","Sum","<U+0413><U+0443><U+0440><U+0432><U+0430><U+043D><U+0431><U+0443><U+043B><U+0430><U+0433>",NA
+83,149,"MNG","Mongolia",5,"Bayanhongor",83,"Jargalant","Soum","Sum","	<U+0416><U+0430><U+0440><U+0433><U+0430><U+043B><U+0430><U+043D><U+0442>",NA
+84,149,"MNG","Mongolia",5,"Bayanhongor",84,"Jinst","Soum","Sum","<U+0416><U+0438><U+043D><U+0441><U+0442>",NA
+85,149,"MNG","Mongolia",5,"Bayanhongor",85,"Khüreemaral","Soum","Sum","	<U+0425><U+04AF><U+0440><U+044D><U+044D><U+043C><U+0430><U+0440><U+0430><U+043B>","Hureemaral"
+86,149,"MNG","Mongolia",5,"Bayanhongor",86,"Shinejinst","Soum","Sum","	<U+0428><U+0438><U+043D><U+044D><U+0436><U+0438><U+043D><U+0441><U+0442>",NA
+87,149,"MNG","Mongolia",5,"Bayanhongor",87,"Zag","Soum","Sum","	<U+0417><U+0430><U+0433>",NA
+88,149,"MNG","Mongolia",6,"Bulgan",88,"Büregkhangai","Soum","Sum","<U+0411><U+04AF><U+0440><U+044D><U+0433><U+0445><U+0430><U+043D><U+0433><U+0430><U+0439>","Bureghangai"
+89,149,"MNG","Mongolia",6,"Bulgan",89,"Bayan-Agt","Soum","Sum","<U+0411><U+0430><U+044F><U+043D>-<U+0410><U+0433><U+0442>",NA
+90,149,"MNG","Mongolia",6,"Bulgan",90,"Bayannuur","Soum","Sum","<U+0411><U+0430><U+044F><U+043D><U+043D><U+0443><U+0443><U+0440>",NA
+91,149,"MNG","Mongolia",6,"Bulgan",91,"Bugat","Soum","Sum","<U+0411><U+0443><U+0433><U+0430><U+0442>",NA
+92,149,"MNG","Mongolia",6,"Bulgan",92,"Dashinchilen","Soum","Sum","<U+0414><U+0430><U+0448><U+0438><U+043D><U+0447><U+0438><U+043B><U+044D><U+043D>",NA
+93,149,"MNG","Mongolia",6,"Bulgan",93,"Gurvanbulag","Soum","Sum","<U+0413><U+0443><U+0440><U+0432><U+0430><U+043D><U+0431><U+0443><U+043B><U+0430><U+0433>",NA
+94,149,"MNG","Mongolia",6,"Bulgan",94,"Khangal","Soum","Sum","<U+0425><U+0430><U+043D><U+0433><U+0430><U+043B>","Hangal"
+95,149,"MNG","Mongolia",6,"Bulgan",95,"Khishig-Öndör","Soum","Sum","<U+0425><U+0438><U+0448><U+0438><U+0433>-<U+04E8><U+043D><U+0434><U+04E9><U+0440>","Hishig-Ondor"
+96,149,"MNG","Mongolia",6,"Bulgan",96,"Khutag-Öndör","Soum","Sum","<U+0425><U+0443><U+0442><U+0430><U+0433>-<U+04E8><U+043D><U+0434><U+04E9><U+0440>","Hutag"
+97,149,"MNG","Mongolia",6,"Bulgan",97,"Mogod","Soum","Sum","<U+041C><U+043E><U+0433><U+043E><U+0434>",NA
+98,149,"MNG","Mongolia",6,"Bulgan",98,"Orkhon","Soum","Sum","<U+041E><U+0440><U+0445><U+043E><U+043D>","Orhon"
+99,149,"MNG","Mongolia",6,"Bulgan",99,"Rashaant","Soum","Sum","<U+0420><U+0430><U+0448><U+0430><U+0430><U+043D><U+0442>",NA
+100,149,"MNG","Mongolia",6,"Bulgan",100,"Saikhan","Soum","Sum","<U+0421><U+0430><U+0439><U+0445><U+0430><U+043D>","Saihan"
+101,149,"MNG","Mongolia",6,"Bulgan",101,"Selenge","Soum","Sum","<U+0421><U+044D><U+043B><U+044D><U+043D><U+0433><U+044D>",NA
+102,149,"MNG","Mongolia",6,"Bulgan",102,"Teshig","Soum","Sum","<U+0422><U+044D><U+0448><U+0438><U+0433>",NA
+103,149,"MNG","Mongolia",7,"Darhan-Uul",103,"Darkhan","Soum","Sum","<U+0414><U+0430><U+0440><U+0445><U+0430><U+043D>","Darhan"
+104,149,"MNG","Mongolia",7,"Darhan-Uul",104,"Khongor","Soum","Sum","<U+0425><U+043E><U+043D><U+0433><U+043E><U+0440>","Hongor"
+105,149,"MNG","Mongolia",7,"Darhan-Uul",105,"Orkhon","Soum","Sum","<U+041E><U+0440><U+0445><U+043E><U+043D>","Orhon"
+106,149,"MNG","Mongolia",7,"Darhan-Uul",106,"Sharyngol","Soum","Sum","<U+0428><U+0430><U+0440><U+044B><U+043D><U+0433><U+043E><U+043B>","Shariingol"
+107,149,"MNG","Mongolia",8,"Dornod",107,"Bayan-Uul","Soum","Sum","<U+0411><U+0430><U+044F><U+043D>-<U+0423><U+0443><U+043B>",NA
+108,149,"MNG","Mongolia",8,"Dornod",108,"Bayandun","Soum","Sum","<U+0411><U+0430><U+044F><U+043D><U+0434><U+0443><U+043D>",NA
+109,149,"MNG","Mongolia",8,"Dornod",109,"Bayantümen","Soum","Sum","<U+0411><U+0430><U+044F><U+043D><U+0442><U+04AF><U+043C><U+044D><U+043D>","Bayantumen"
+110,149,"MNG","Mongolia",8,"Dornod",110,"Bulgan","Soum","Sum","<U+0411><U+0443><U+043B><U+0433><U+0430><U+043D>",NA
+111,149,"MNG","Mongolia",8,"Dornod",111,"Choibalsan","Soum","Sum","<U+0427><U+043E><U+0439><U+0431><U+0430><U+043B><U+0441><U+0430><U+043D>",NA
+112,149,"MNG","Mongolia",8,"Dornod",112,"Chuluunkhoroot","Soum","Sum","<U+0427><U+0443><U+043B><U+0443><U+0443><U+043D><U+0445><U+043E><U+0440><U+043E><U+043E><U+0442>","Eereentsav|Chuluunhoroot"
+113,149,"MNG","Mongolia",8,"Dornod",113,"Dashbalbar","Soum","Sum","<U+0414><U+0430><U+0448><U+0431><U+0430><U+043B><U+0431><U+0430><U+0440>",NA
+114,149,"MNG","Mongolia",8,"Dornod",114,"Gurvanzagal","Soum","Sum","<U+0413><U+0443><U+0440><U+0432><U+0430><U+043D><U+0437><U+0430><U+0433><U+0430><U+043B>",NA
+115,149,"MNG","Mongolia",8,"Dornod",115,"Khölönbuir","Soum","Sum","<U+0425><U+04E9><U+043B><U+04E9><U+043D><U+0431><U+0443><U+0439><U+0440>","Holonbuir"
+116,149,"MNG","Mongolia",8,"Dornod",116,"Khalkhgol","Soum","Sum","<U+0425><U+0430><U+043B><U+0445><U+0433><U+043E><U+043B>","Halhgol"
+117,149,"MNG","Mongolia",8,"Dornod",117,"Kherlen","Soum","Sum","<U+0425><U+044D><U+0440><U+043B><U+044D><U+043D>","Herlen"
+118,149,"MNG","Mongolia",8,"Dornod",118,"Matad","Soum","Sum","<U+041C><U+0430><U+0442><U+0430><U+0434>",NA
+119,149,"MNG","Mongolia",8,"Dornod",119,"Sergelen","Soum","Sum","<U+0421><U+044D><U+0440><U+0433><U+044D><U+043B><U+044D><U+043D>",NA
+120,149,"MNG","Mongolia",8,"Dornod",120,"Tsagaan-Ovoo","Soum","Sum","<U+0426><U+0430><U+0433><U+0430><U+0430><U+043D>-<U+041E><U+0432><U+043E><U+043E>",NA
+121,149,"MNG","Mongolia",9,"Dornogovi",121,"Örgön","Soum","Sum","<U+04E8><U+0440><U+0433><U+04E9><U+043D>","Orgon"
+122,149,"MNG","Mongolia",9,"Dornogovi",122,"Airag","Soum","Sum","<U+0410><U+0439><U+0440><U+0430><U+0433>",NA
+123,149,"MNG","Mongolia",9,"Dornogovi",123,"Altanshiree","Soum","Sum","<U+0410><U+043B><U+0442><U+0430><U+043D><U+0448><U+0438><U+0440><U+044D><U+044D>",NA
+124,149,"MNG","Mongolia",9,"Dornogovi",124,"Dalanjargalan","Soum","Sum","<U+0414><U+0430><U+043B><U+0430><U+043D><U+0436><U+0430><U+0440><U+0433><U+0430><U+043B><U+0430><U+043D>",NA
+125,149,"MNG","Mongolia",9,"Dornogovi",125,"Delgerekh","Soum","Sum","<U+0414><U+044D><U+043B><U+0433><U+044D><U+0440><U+044D><U+0445>","Delgereh"
+126,149,"MNG","Mongolia",9,"Dornogovi",126,"Erdene","Soum","Sum","<U+042D><U+0440><U+0434><U+044D><U+043D><U+044D>",NA
+127,149,"MNG","Mongolia",9,"Dornogovi",127,"Ikhkhet","Soum","Sum","<U+0418><U+0445><U+0445><U+044D><U+0442>","Ihhet"
+128,149,"MNG","Mongolia",9,"Dornogovi",128,"Khövsgöl","Soum","Sum","<U+0425><U+04E9><U+0432><U+0441><U+0433><U+04E9><U+043B>","Hovsgol"
+129,149,"MNG","Mongolia",9,"Dornogovi",129,"Khatanbulag","Soum","Sum","<U+0425><U+0430><U+0442><U+0430><U+043D><U+0431><U+0443><U+043B><U+0430><U+0433>","Hatanbulag"
+130,149,"MNG","Mongolia",9,"Dornogovi",130,"Mandakh","Soum","Sum","<U+041C><U+0430><U+043D><U+0434><U+0430><U+0445>","Mandah"
+131,149,"MNG","Mongolia",9,"Dornogovi",131,"Saikhandulaan","Soum","Sum","<U+0421><U+0430><U+0439><U+0445><U+0430><U+043D><U+0434><U+0443><U+043B><U+0430><U+0430><U+043D>","Saihandulaan"
+132,149,"MNG","Mongolia",9,"Dornogovi",132,"Sainshand","Soum","Sum","<U+0421><U+0430><U+0439><U+043D><U+0448><U+0430><U+043D><U+0434>","Saynshand"
+133,149,"MNG","Mongolia",9,"Dornogovi",133,"Ulaanbadrakh","Soum","Sum","<U+0423><U+043B><U+0430><U+0430><U+043D><U+0431><U+0430><U+0434><U+0440><U+0430><U+0445>","Ulaanbadrah"
+134,149,"MNG","Mongolia",9,"Dornogovi",134,"Zamyn-Üüd","Soum","Sum","<U+0417><U+0430><U+043C><U+044B><U+043D>-<U+04AE><U+04AF><U+0434>","Zammyn-uud"
+135,149,"MNG","Mongolia",10,"Dundgovi",135,"Ölziit","Soum","Sum","<U+04E8><U+043B><U+0437><U+0438><U+0439><U+0442>","Olziit"
+136,149,"MNG","Mongolia",10,"Dundgovi",136,"Öndörshil","Soum","Sum","<U+04E8><U+043D><U+0434><U+04E9><U+0440><U+0448><U+0438><U+043B>","Ondorshil"
+137,149,"MNG","Mongolia",10,"Dundgovi",137,"Adaatsag","Soum","Sum","<U+0410><U+0434><U+0430><U+0430><U+0446><U+0430><U+0433>",NA
+138,149,"MNG","Mongolia",10,"Dundgovi",138,"Bayanjargalan","Soum","Sum","<U+0411><U+0430><U+044F><U+043D><U+0436><U+0430><U+0440><U+0433><U+0430><U+043B><U+0430><U+043D>",NA
+139,149,"MNG","Mongolia",10,"Dundgovi",139,"Delgerkhangai","Soum","Sum","<U+0414><U+044D><U+043B><U+0433><U+044D><U+0440><U+0445><U+0430><U+043D><U+0433><U+0430><U+0439>","Delgerhangai"
+140,149,"MNG","Mongolia",10,"Dundgovi",140,"Delgertsogt","Soum","Sum","	<U+0414><U+044D><U+043B><U+0433><U+044D><U+0440><U+0446><U+043E><U+0433><U+0442>",NA
+141,149,"MNG","Mongolia",10,"Dundgovi",141,"Deren","Soum","Sum","<U+0414><U+044D><U+0440><U+044D><U+043D>",NA
+142,149,"MNG","Mongolia",10,"Dundgovi",142,"Erdenedalai","Soum","Sum","<U+042D><U+0440><U+0434><U+044D><U+043D><U+044D><U+0434><U+0430><U+043B><U+0430><U+0439>",NA
+143,149,"MNG","Mongolia",10,"Dundgovi",143,"Govi-Ugtaal","Soum","Sum","<U+0413><U+043E><U+0432><U+044C>-<U+0423><U+0433><U+0442><U+0430><U+0430><U+043B>",NA
+144,149,"MNG","Mongolia",10,"Dundgovi",144,"Gurvansaikhan","Soum","Sum","<U+0413><U+0443><U+0440><U+0432><U+0430><U+043D><U+0441><U+0430><U+0439><U+0445><U+0430><U+043D>","Gurvansaihan"
+145,149,"MNG","Mongolia",10,"Dundgovi",145,"Khuld","Soum","Sum","<U+0425><U+0443><U+043B><U+0434>","Huld"
+146,149,"MNG","Mongolia",10,"Dundgovi",146,"Luus","Soum","Sum","<U+041B><U+0443><U+0443><U+0441>",NA
+147,149,"MNG","Mongolia",10,"Dundgovi",147,"Saikhan-Ovoo","Soum","Sum","<U+0421><U+0430><U+0439><U+0445><U+0430><U+043D>-<U+041E><U+0432><U+043E><U+043E>","Saihan-Ovoo"
+148,149,"MNG","Mongolia",10,"Dundgovi",148,"Saintsagaan","Soum","Sum","<U+0421><U+0430><U+0439><U+043D><U+0446><U+0430><U+0433><U+0430><U+0430><U+043D>",NA
+149,149,"MNG","Mongolia",10,"Dundgovi",149,"Tsagaandelger","Soum","Sum","<U+0426><U+0430><U+0433><U+0430><U+0430><U+043D><U+0434><U+044D><U+043B><U+0433><U+044D><U+0440>",NA
+150,149,"MNG","Mongolia",11,"Dzavhan",150,"Aldarkhaan","Soum","Sum","<U+0410><U+043B><U+0434><U+0430><U+0440><U+0445><U+0430><U+0430><U+043D>","Aldarhaan"
+151,149,"MNG","Mongolia",11,"Dzavhan",151,"Asgat","Soum","Sum","<U+0410><U+0441><U+0433><U+0430><U+0442>",NA
+152,149,"MNG","Mongolia",11,"Dzavhan",152,"Bayankhairkhan","Soum","Sum","<U+0411><U+0430><U+044F><U+043D><U+0445><U+0430><U+0439><U+0440><U+0445><U+0430><U+043D>","Byanhairhan"
+153,149,"MNG","Mongolia",11,"Dzavhan",153,"Bayantes","Soum","Sum","<U+0411><U+0430><U+044F><U+043D><U+0442><U+044D><U+0441>","Bayan-Tes"
+154,149,"MNG","Mongolia",11,"Dzavhan",154,"Dörvöljin","Soum","Sum","<U+0414><U+04E9><U+0440><U+0432><U+04E9><U+043B><U+0436><U+0438><U+043D>","Dorvoljin"
+155,149,"MNG","Mongolia",11,"Dzavhan",155,"Erdenekhairkhan","Soum","Sum","<U+042D><U+0440><U+0434><U+044D><U+043D><U+044D><U+0445><U+0430><U+0439><U+0440><U+0445><U+0430><U+043D>","Erdenehairhan"
+156,149,"MNG","Mongolia",11,"Dzavhan",156,"Ider","Soum","Sum","<U+0418><U+0434><U+044D><U+0440>",NA
+157,149,"MNG","Mongolia",11,"Dzavhan",157,"Ikh-Uul","Soum","Sum","<U+0418><U+0445>-<U+0423><U+0443><U+043B>","Ih-Uul"
+158,149,"MNG","Mongolia",11,"Dzavhan",158,"Nömrög","Soum","Sum","<U+041D><U+04E9><U+043C><U+0440><U+04E9><U+0433>","Nomrog"
+159,149,"MNG","Mongolia",11,"Dzavhan",159,"Otgon","Soum","Sum","<U+041E><U+0442><U+0433><U+043E><U+043D>",NA
+160,149,"MNG","Mongolia",11,"Dzavhan",160,"Santmargats","Soum","Sum","<U+0421><U+0430><U+043D><U+0442><U+043C><U+0430><U+0440><U+0433><U+0430><U+0446>",NA
+161,149,"MNG","Mongolia",11,"Dzavhan",161,"Shilüüstei","Soum","Sum","<U+0428><U+0438><U+043B><U+04AF><U+04AF><U+0441><U+0442><U+044D><U+0439>","Shiluustei"
+162,149,"MNG","Mongolia",11,"Dzavhan",162,"Songino","Soum","Sum","<U+0421><U+043E><U+043D><U+0433><U+0438><U+043D><U+043E>",NA
+163,149,"MNG","Mongolia",11,"Dzavhan",163,"Tüdevtei","Soum","Sum","<U+0422><U+04AF><U+0434><U+044D><U+0432><U+0442><U+044D><U+0439>","Tudevtei"
+164,149,"MNG","Mongolia",11,"Dzavhan",164,"Telmen","Soum","Sum","<U+0422><U+044D><U+043B><U+043C><U+044D><U+043D>",NA
+165,149,"MNG","Mongolia",11,"Dzavhan",165,"Tes","Soum","Sum","<U+0422><U+044D><U+0441>",NA
+166,149,"MNG","Mongolia",11,"Dzavhan",166,"Tosontsengel","Soum","Sum","<U+0422><U+043E><U+0441><U+043E><U+043D><U+0446><U+044D><U+043D><U+0433><U+044D><U+043B>",NA
+167,149,"MNG","Mongolia",11,"Dzavhan",167,"Tsagaanchuluut","Soum","Sum","<U+0426><U+0430><U+0433><U+0430><U+0430><U+043D><U+0447><U+0443><U+043B><U+0443><U+0443><U+0442>",NA
+168,149,"MNG","Mongolia",11,"Dzavhan",168,"Tsagaankhairkhan","Soum","Sum","<U+0426><U+0430><U+0433><U+0430><U+0430><U+043D><U+0445><U+0430><U+0439><U+0440><U+0445><U+0430><U+043D>","Tsagaanhairhan"
+169,149,"MNG","Mongolia",11,"Dzavhan",169,"Tsetsen-Uul","Soum","Sum","<U+0426><U+044D><U+0446><U+044D><U+043D>-<U+0423><U+0443><U+043B>",NA
+170,149,"MNG","Mongolia",11,"Dzavhan",170,"Urgamal","Soum","Sum","<U+0423><U+0440><U+0433><U+0430><U+043C><U+0430><U+043B>",NA
+171,149,"MNG","Mongolia",11,"Dzavhan",171,"Yaruu","Soum","Sum","<U+042F><U+0440><U+0443><U+0443>",NA
+172,149,"MNG","Mongolia",11,"Dzavhan",172,"Zavkhanmandal","Soum","Sum","<U+0417><U+0430><U+0432><U+0445><U+0430><U+043D><U+043C><U+0430><U+043D><U+0434><U+0430><U+043B>","Zavhanmandal"
+173,149,"MNG","Mongolia",12,"Govi-Altay",173,"Altai","Soum","Sum","<U+0410><U+043B><U+0442><U+0430><U+0439>",NA
+174,149,"MNG","Mongolia",12,"Govi-Altay",174,"Bayan-Uul","Soum","Sum","<U+0411><U+0430><U+044F><U+043D>-<U+0423><U+0443><U+043B>",NA
+175,149,"MNG","Mongolia",12,"Govi-Altay",175,"Biger","Soum","Sum","<U+0411><U+0438><U+0433><U+044D><U+0440>",NA
+176,149,"MNG","Mongolia",12,"Govi-Altay",176,"Bugat","Soum","Sum","<U+0411><U+0443><U+0433><U+0430><U+0442>",NA
+177,149,"MNG","Mongolia",12,"Govi-Altay",177,"Chandmani","Soum","Sum","<U+0427><U+0430><U+043D><U+0434><U+043C><U+0430><U+043D><U+044C>",NA
+178,149,"MNG","Mongolia",12,"Govi-Altay",178,"Darvi","Soum","Sum","<U+0414><U+0430><U+0440><U+0432><U+0438>","Dariv"
+179,149,"MNG","Mongolia",12,"Govi-Altay",179,"Delger","Soum","Sum","<U+0414><U+044D><U+043B><U+0433><U+044D><U+0440>",NA
+180,149,"MNG","Mongolia",12,"Govi-Altay",180,"Erdene","Soum","Sum","<U+042D><U+0440><U+0434><U+044D><U+043D><U+044D>",NA
+181,149,"MNG","Mongolia",12,"Govi-Altay",181,"Jargalan","Soum","Sum","<U+0425><U+0430><U+043B><U+0438><U+0443><U+043D><U+0416><U+0430><U+0440><U+0433><U+0430><U+043B><U+0430><U+043D>",NA
+182,149,"MNG","Mongolia",12,"Govi-Altay",182,"Khökh morit","Soum","Sum","<U+0425><U+04E9><U+0445> <U+043C><U+043E><U+0440><U+044C><U+0442>","Hohmorit"
+183,149,"MNG","Mongolia",12,"Govi-Altay",183,"Khaliun","Soum","Sum","<U+0425><U+0430><U+043B><U+0438><U+0443><U+043D>","Haliun"
+184,149,"MNG","Mongolia",12,"Govi-Altay",184,"Sharga","Soum","Sum","<U+0428><U+0430><U+0440><U+0433><U+0430>",NA
+185,149,"MNG","Mongolia",12,"Govi-Altay",185,"Tögrög","Soum","Sum","<U+0422><U+04E9><U+0433><U+0440><U+04E9><U+0433>","Togrog"
+186,149,"MNG","Mongolia",12,"Govi-Altay",186,"Taishir","Soum","Sum","<U+0422><U+0430><U+0439><U+0448><U+0438><U+0440>",NA
+187,149,"MNG","Mongolia",12,"Govi-Altay",187,"Tonkhil","Soum","Sum","<U+0422><U+043E><U+043D><U+0445><U+0438><U+043B>","Tonhil"
+188,149,"MNG","Mongolia",12,"Govi-Altay",188,"Tseel","Soum","Sum","<U+0426><U+044D><U+044D><U+043B>",NA
+189,149,"MNG","Mongolia",12,"Govi-Altay",189,"Tsogt","Soum","Sum","<U+0426><U+043E><U+0433><U+0442>",NA
+190,149,"MNG","Mongolia",12,"Govi-Altay",190,"Yesönbulag","Soum","Sum","	<U+0415><U+0441><U+04E9><U+043D><U+0431><U+0443><U+043B><U+0430><U+0433>","Esonbulag"
+191,149,"MNG","Mongolia",13,"Govisümber",191,"Bayantal","Soum","Sum","<U+0411><U+0430><U+044F><U+043D><U+0442><U+0430><U+043B>",NA
+192,149,"MNG","Mongolia",13,"Govisümber",192,"Sümber","Soum","Sum","<U+0421><U+04AF><U+043C><U+0431><U+044D><U+0440>","Sumber"
+193,149,"MNG","Mongolia",13,"Govisümber",193,"Shiveegovi","Soum","Sum","<U+0428><U+0438><U+0432><U+044D><U+044D><U+0433><U+043E><U+0432><U+044C>",NA
+194,149,"MNG","Mongolia",14,"Hövsgöl",194,"Alag-Erdene","Soum","Sum","<U+0410><U+043B><U+0430><U+0433>-<U+042D><U+0440><U+0434><U+044D><U+043D><U+044D>","Khatgal"
+195,149,"MNG","Mongolia",14,"Hövsgöl",195,"Arbulag","Soum","Sum","<U+0410><U+0440><U+0431><U+0443><U+043B><U+0430><U+0433>",NA
+196,149,"MNG","Mongolia",14,"Hövsgöl",196,"Bürentogtokh","Soum","Sum","<U+0411><U+04AF><U+0440><U+044D><U+043D><U+0442><U+043E><U+0433><U+0442><U+043E><U+0445>","Burentogtoh"
+197,149,"MNG","Mongolia",14,"Hövsgöl",197,"Bayanzürkh","Soum","Sum","<U+0411><U+0430><U+044F><U+043D><U+0437><U+04AF><U+0440><U+0445>","Bayanzurh"
+198,149,"MNG","Mongolia",14,"Hövsgöl",198,"Chandmani-Öndör","Soum","Sum","<U+0427><U+0430><U+043D><U+0434><U+043C><U+0430><U+043D><U+044C>-<U+04E8><U+043D><U+0434><U+04E9><U+0440>","Chandmani-Ondor"
+199,149,"MNG","Mongolia",14,"Hövsgöl",199,"Erdenebulgan","Soum","Sum","	<U+042D><U+0440><U+0434><U+044D><U+043D><U+044D><U+0431><U+0443><U+043B><U+0433><U+0430><U+043D>",NA
+200,149,"MNG","Mongolia",14,"Hövsgöl",200,"Galt","Soum","Sum","<U+0413><U+0430><U+043B><U+0442>",NA
+201,149,"MNG","Mongolia",14,"Hövsgöl",201,"Ikh-Uul","Soum","Sum","	<U+0418><U+0445>-<U+0423><U+0443><U+043B>","Ih-Uul"
+202,149,"MNG","Mongolia",14,"Hövsgöl",202,"Jargalant","Soum","Sum","<U+0416><U+0430><U+0440><U+0433><U+0430><U+043B><U+0430><U+043D><U+0442>",NA
+203,149,"MNG","Mongolia",14,"Hövsgöl",203,"Khankh","Soum","Sum","	<U+0425><U+0430><U+043D><U+0445>","Hanh"
+204,149,"MNG","Mongolia",14,"Hövsgöl",204,"Khatgal","Soum","Sum","<U+0425><U+0430><U+0442><U+0433><U+0430><U+043B>","Hatgal"
+205,149,"MNG","Mongolia",14,"Hövsgöl",205,"Mörön","Soum","Sum","	<U+041C><U+04E9><U+0440><U+04E9><U+043D>","Moron"
+206,149,"MNG","Mongolia",14,"Hövsgöl",206,"Rashaant","Soum","Sum","<U+0420><U+0430><U+0448><U+0430><U+0430><U+043D><U+0442>",NA
+207,149,"MNG","Mongolia",14,"Hövsgöl",207,"Renchinlkhümbe","Soum","Sum","<U+0420><U+044D><U+043D><U+0447><U+0438><U+043D><U+043B><U+0445><U+04AF><U+043C><U+0431><U+044D>","Renchinlhumbe"
+208,149,"MNG","Mongolia",14,"Hövsgöl",208,"Shine-Ider","Soum","Sum","<U+0428><U+0438><U+043D><U+044D>-<U+0418><U+0434><U+044D><U+0440>",NA
+209,149,"MNG","Mongolia",14,"Hövsgöl",209,"Tömörbulag","Soum","Sum","<U+0422><U+04E9><U+043C><U+04E9><U+0440><U+0431><U+0443><U+043B><U+0430><U+0433>","Tomorbulag"
+210,149,"MNG","Mongolia",14,"Hövsgöl",210,"Tünel","Soum","Sum","	<U+0422><U+04AF><U+043D><U+044D><U+043B>","Tunel"
+211,149,"MNG","Mongolia",14,"Hövsgöl",211,"Tarialan","Soum","Sum","<U+0422><U+0430><U+0440><U+0438><U+0430><U+043B><U+0430><U+043D>",NA
+212,149,"MNG","Mongolia",14,"Hövsgöl",212,"Tosontsengel","Soum","Sum","<U+0422><U+043E><U+0441><U+043E><U+043D><U+0446><U+044D><U+043D><U+0433><U+044D><U+043B>",NA
+213,149,"MNG","Mongolia",14,"Hövsgöl",213,"Tsagaan-Üür","Soum","Sum","	<U+0426><U+0430><U+0433><U+0430><U+0430><U+043D>-<U+04AE><U+04AF><U+0440>","Tsagaan-Uur"
+214,149,"MNG","Mongolia",14,"Hövsgöl",214,"Tsagaan-Uul","Soum","Sum","<U+0426><U+0430><U+0433><U+0430><U+0430><U+043D>-<U+0423><U+0443><U+043B>",NA
+215,149,"MNG","Mongolia",14,"Hövsgöl",215,"Tsagaannuur","Soum","Sum","<U+0426><U+0430><U+0433><U+0430><U+0430><U+043D><U+043D><U+0443><U+0443><U+0440>",NA
+216,149,"MNG","Mongolia",14,"Hövsgöl",216,"Tsetserleg","Soum","Sum","<U+0426><U+044D><U+0446><U+044D><U+0440><U+043B><U+044D><U+0433>",NA
+217,149,"MNG","Mongolia",14,"Hövsgöl",217,"Ulaan-Uul","Soum","Sum","<U+0423><U+043B><U+0430><U+0430><U+043D>-<U+0423><U+0443><U+043B>",NA
+218,149,"MNG","Mongolia",15,"Hentiy",218,"Ömnödelger","Soum","Sum","<U+04E8><U+043C><U+043D><U+04E9><U+0434><U+044D><U+043B><U+0433><U+044D><U+0440>","Omnodelger"
+219,149,"MNG","Mongolia",15,"Hentiy",219,"Batnorov","Soum","Sum","<U+0411><U+0430><U+0442><U+043D><U+043E><U+0440><U+043E><U+0432>",NA
+220,149,"MNG","Mongolia",15,"Hentiy",220,"Batshireet","Soum","Sum","<U+0411><U+0430><U+0442><U+0448><U+0438><U+0440><U+044D><U+044D><U+0442>",NA
+221,149,"MNG","Mongolia",15,"Hentiy",221,"Bayan-Adarga","Soum","Sum","<U+0411><U+0430><U+044F><U+043D>-<U+0410><U+0434><U+0430><U+0440><U+0433><U+0430>","Bayan-Adraga"
+222,149,"MNG","Mongolia",15,"Hentiy",222,"Bayan-Ovoo","Soum","Sum","<U+0411><U+0430><U+044F><U+043D>-<U+041E><U+0432><U+043E><U+043E>",NA
+223,149,"MNG","Mongolia",15,"Hentiy",223,"Bayankhutag","Soum","Sum","<U+0411><U+0430><U+044F><U+043D><U+0445><U+0443><U+0442><U+0430><U+0433>","Bayanhutag"
+224,149,"MNG","Mongolia",15,"Hentiy",224,"Bayanmönkh","Soum","Sum","<U+0411><U+0430><U+044F><U+043D><U+043C><U+04E9><U+043D><U+0445>","Bayanmonh"
+225,149,"MNG","Mongolia",15,"Hentiy",225,"Binder","Soum","Sum","<U+0411><U+0438><U+043D><U+0434><U+044D><U+0440>",NA
+226,149,"MNG","Mongolia",15,"Hentiy",226,"Dadal","Soum","Sum","	<U+0414><U+0430><U+0434><U+0430><U+043B>",NA
+227,149,"MNG","Mongolia",15,"Hentiy",227,"Darkhan","Soum","Sum","	<U+0414><U+0430><U+0440><U+0445><U+0430><U+043D>","Darhan"
+228,149,"MNG","Mongolia",15,"Hentiy",228,"Delgerkhaan","Soum","Sum","<U+0414><U+044D><U+043B><U+0433><U+044D><U+0440><U+0445><U+0430><U+0430><U+043D>","Delgerhaan"
+229,149,"MNG","Mongolia",15,"Hentiy",229,"Galshar","Soum","Sum","	<U+0413><U+0430><U+043B><U+0448><U+0430><U+0440>","Galshir"
+230,149,"MNG","Mongolia",15,"Hentiy",230,"Jargaltkhaan","Soum","Sum","	<U+0416><U+0430><U+0440><U+0433><U+0430><U+043B><U+0442><U+0445><U+0430><U+0430><U+043D>","Jargalthaan"
+231,149,"MNG","Mongolia",15,"Hentiy",231,"Kherlen","Soum","Sum","<U+0425><U+044D><U+0440><U+043B><U+044D><U+043D>","Herlen"
+232,149,"MNG","Mongolia",15,"Hentiy",232,"Mörön","Soum","Sum","<U+041C><U+04E9><U+0440><U+04E9><U+043D>","Moron"
+233,149,"MNG","Mongolia",15,"Hentiy",233,"Norovlin","Soum","Sum","	<U+041D><U+043E><U+0440><U+043E><U+0432><U+043B><U+0438><U+043D>",NA
+234,149,"MNG","Mongolia",15,"Hentiy",234,"Tsenkhermandal","Soum","Sum","	<U+0426><U+044D><U+043D><U+0445><U+044D><U+0440><U+043C><U+0430><U+043D><U+0434><U+0430><U+043B>","Tsenhermandal"
+235,149,"MNG","Mongolia",16,"Hovd",235,"Altai","Soum","Sum","<U+0410><U+043B><U+0442><U+0430><U+0439>",NA
+236,149,"MNG","Mongolia",16,"Hovd",236,"Üyench","Soum","Sum","	<U+04AE><U+0435><U+043D><U+0447>","Uyench"
+237,149,"MNG","Mongolia",16,"Hovd",237,"Bulgan","Soum","Sum","<U+0411><U+0443><U+043B><U+0433><U+0430><U+043D>",NA
+238,149,"MNG","Mongolia",16,"Hovd",238,"Buyant","Soum","Sum","<U+0411><U+0443><U+044F><U+043D><U+0442>",NA
+239,149,"MNG","Mongolia",16,"Hovd",239,"Chandmani","Soum","Sum","<U+0427><U+0430><U+043D><U+0434><U+043C><U+0430><U+043D><U+044C>",NA
+240,149,"MNG","Mongolia",16,"Hovd",240,"Dörgön","Soum","Sum","<U+0414><U+04E9><U+0440><U+0433><U+04E9><U+043D>","Dorgon"
+241,149,"MNG","Mongolia",16,"Hovd",241,"Darvi","Soum","Sum","	<U+0414><U+0430><U+0440><U+0432><U+0438>","Dariv"
+242,149,"MNG","Mongolia",16,"Hovd",242,"Duut","Soum","Sum","	<U+0414><U+0443><U+0443><U+0442>",NA
+243,149,"MNG","Mongolia",16,"Hovd",243,"Erdenebüren","Soum","Sum","<U+042D><U+0440><U+0434><U+044D><U+043D><U+044D><U+0431><U+04AF><U+0440><U+044D><U+043D>","Erdeneburen"
+244,149,"MNG","Mongolia",16,"Hovd",244,"Jargalant","Soum","Sum","<U+0416><U+0430><U+0440><U+0433><U+0430><U+043B><U+0430><U+043D><U+0442>",NA
+245,149,"MNG","Mongolia",16,"Hovd",245,"Khovd","Soum","Sum","	<U+0425><U+043E><U+0432><U+0434>","Hovd"
+246,149,"MNG","Mongolia",16,"Hovd",246,"Mönkhkhairkhan","Soum","Sum","<U+041C><U+04E9><U+043D><U+0445><U+0445><U+0430><U+0439><U+0440><U+0445><U+0430><U+043D>","Monhhairhan"
+247,149,"MNG","Mongolia",16,"Hovd",247,"Möst","Soum","Sum","	<U+041C><U+04E9><U+0441><U+0442>","Most"
+248,149,"MNG","Mongolia",16,"Hovd",248,"Mankhan","Soum","Sum","<U+041C><U+0430><U+043D><U+0445><U+0430><U+043D>","Manhan"
+249,149,"MNG","Mongolia",16,"Hovd",249,"Myangad","Soum","Sum","<U+041C><U+044F><U+043D><U+0433><U+0430><U+0434>",NA
+250,149,"MNG","Mongolia",16,"Hovd",250,"Tsetseg","Soum","Sum","	<U+0426><U+044D><U+0446><U+044D><U+0433>",NA
+251,149,"MNG","Mongolia",16,"Hovd",251,"Zereg","Soum","Sum","	<U+0417><U+044D><U+0440><U+044D><U+0433>",NA
+252,149,"MNG","Mongolia",17,"Orhon",252,"Bayan-Öndör","Soum","Sum","<U+0411><U+0430><U+044F><U+043D>-<U+04E8><U+043D><U+0434><U+04E9><U+0440>","Bayan-Under"
+253,149,"MNG","Mongolia",17,"Orhon",253,"Jargalant","Soum","Sum","	<U+0416><U+0430><U+0440><U+0433><U+0430><U+043B><U+0430><U+043D><U+0442>",NA
+254,149,"MNG","Mongolia",18,"Sühbaatar",254,"Airag","Soum","Sum",NA,NA
+255,149,"MNG","Mongolia",18,"Sühbaatar",255,"Asgat","Soum","Sum","<U+0410><U+0441><U+0433><U+0430><U+0442>",NA
+256,149,"MNG","Mongolia",18,"Sühbaatar",256,"Bayandelger","Soum","Sum","<U+0411><U+0430><U+044F><U+043D><U+0434><U+044D><U+043B><U+0433><U+044D><U+0440>",NA
+257,149,"MNG","Mongolia",18,"Sühbaatar",257,"Dariganga","Soum","Sum","	<U+0414><U+0430><U+0440><U+044C><U+0433><U+0430><U+043D><U+0433><U+0430>",NA
+258,149,"MNG","Mongolia",18,"Sühbaatar",258,"Erdenetsagaan","Soum","Sum","<U+042D><U+0440><U+0434><U+044D><U+043D><U+044D><U+0446><U+0430><U+0433><U+0430><U+0430><U+043D>",NA
+259,149,"MNG","Mongolia",18,"Sühbaatar",259,"Khalzan","Soum","Sum","<U+0425><U+0430><U+043B><U+0437><U+0430><U+043D>","Halzan"
+260,149,"MNG","Mongolia",18,"Sühbaatar",260,"Naran","Soum","Sum","<U+041D><U+0430><U+0440><U+0430><U+043D>",NA
+261,149,"MNG","Mongolia",18,"Sühbaatar",261,"Ongon","Soum","Sum","<U+041E><U+043D><U+0433><U+043E><U+043D>",NA
+262,149,"MNG","Mongolia",18,"Sühbaatar",262,"Sükhbaatar","Soum","Sum","<U+0421><U+04AF><U+0445><U+0431><U+0430><U+0430><U+0442><U+0430><U+0440>","Suhbaatar"
+263,149,"MNG","Mongolia",18,"Sühbaatar",263,"Tümentsogt","Soum","Sum","<U+0422><U+04AF><U+043C><U+044D><U+043D><U+0446><U+043E><U+0433><U+0442>","Tumentsogt"
+264,149,"MNG","Mongolia",18,"Sühbaatar",264,"Tüvshinshiree","Soum","Sum","<U+0422><U+04AF><U+0432><U+0448><U+0438><U+043D><U+0448><U+0438><U+0440><U+044D><U+044D>","Tuvshinshiree"
+265,149,"MNG","Mongolia",18,"Sühbaatar",265,"Uulbayan","Soum","Sum","<U+0423><U+0443><U+043B><U+0431><U+0430><U+044F><U+043D>",NA
+266,149,"MNG","Mongolia",19,"Selenge",266,"Altanbulag","Soum","Sum","<U+0410><U+043B><U+0442><U+0430><U+043D><U+0431><U+0443><U+043B><U+0430><U+0433>",NA
+267,149,"MNG","Mongolia",19,"Selenge",267,"Baruunbüren","Soum","Sum","<U+0411><U+0430><U+0440><U+0443><U+0443><U+043D><U+0431><U+04AF><U+0440><U+044D><U+043D>","Baruunburen"
+268,149,"MNG","Mongolia",19,"Selenge",268,"Bayangol","Soum","Sum","<U+0411><U+0430><U+044F><U+043D><U+0433><U+043E><U+043B>",NA
+269,149,"MNG","Mongolia",19,"Selenge",269,"Javkhlant","Soum","Sum","<U+0416><U+0430><U+0432><U+0445><U+043B><U+0430><U+043D><U+0442>","Javhlant"
+270,149,"MNG","Mongolia",19,"Selenge",270,"Khüder","Soum","Sum","<U+0425><U+04AF><U+0434><U+044D><U+0440>","Huder"
+271,149,"MNG","Mongolia",19,"Selenge",271,"Khushaat","Soum","Sum","<U+0425><U+0443><U+0448><U+0430><U+0430><U+0442>","Huzhaat"
+272,149,"MNG","Mongolia",19,"Selenge",272,"Mandal","Soum","Sum","<U+041C><U+0430><U+043D><U+0434><U+0430><U+043B>",NA
+273,149,"MNG","Mongolia",19,"Selenge",273,"Orkhon","Soum","Sum","<U+041E><U+0440><U+0445><U+043E><U+043D>","Orhon"
+274,149,"MNG","Mongolia",19,"Selenge",274,"Orkhontuul","Soum","Sum","<U+041E><U+0440><U+0445><U+043E><U+043D><U+0442><U+0443><U+0443><U+043B>","Orhontuul"
+275,149,"MNG","Mongolia",19,"Selenge",275,"Sant","Soum","Sum","<U+0421><U+0430><U+043D><U+0442>",NA
+276,149,"MNG","Mongolia",19,"Selenge",276,"Saykhan","Soum","Sum","<U+0421><U+0430><U+0439><U+0445><U+0430><U+043D>","Saihan"
+277,149,"MNG","Mongolia",19,"Selenge",277,"Shaamar","Soum","Sum","<U+0428><U+0430><U+0430><U+043C><U+0430><U+0440>",NA
+278,149,"MNG","Mongolia",19,"Selenge",278,"Tüshig","Soum","Sum","	<U+0422><U+04AF><U+0448><U+0438><U+0433>","Tushig"
+279,149,"MNG","Mongolia",19,"Selenge",279,"Tsagaannuur","Soum","Sum","<U+0426><U+0430><U+0433><U+0430><U+0430><U+043D><U+043D><U+0443><U+0443><U+0440>",NA
+280,149,"MNG","Mongolia",19,"Selenge",280,"Yeröö","Soum","Sum","<U+0415><U+0440><U+04E9><U+04E9>","Yeroo"
+281,149,"MNG","Mongolia",19,"Selenge",281,"Züünbüren","Soum","Sum","	<U+0417><U+04AF><U+04AF><U+043D><U+0431><U+04AF><U+0440><U+044D><U+043D>","Zuunburen"
+282,149,"MNG","Mongolia",20,"Töv",282,"Öndörshireet","Soum","Sum","<U+04E8><U+043D><U+0434><U+04E9><U+0440><U+0448><U+0438><U+0440><U+044D><U+044D><U+0442>","Ondorshireet"
+283,149,"MNG","Mongolia",20,"Töv",283,"Altanbulag","Soum","Sum","<U+0410><U+043B><U+0442><U+0430><U+043D><U+0431><U+0443><U+043B><U+0430><U+0433>",NA
+284,149,"MNG","Mongolia",20,"Töv",284,"Argalant","Soum","Sum","<U+0410><U+0440><U+0433><U+0430><U+043B><U+0430><U+043D><U+0442>",NA
+285,149,"MNG","Mongolia",20,"Töv",285,"Arkhust","Soum","Sum","<U+0410><U+0440><U+0445><U+0443><U+0441><U+0442>","Arhust"
+286,149,"MNG","Mongolia",20,"Töv",286,"Büren","Soum","Sum","<U+0411><U+04AF><U+0440><U+044D><U+043D>","Buren"
+287,149,"MNG","Mongolia",20,"Töv",287,"Batsümber","Soum","Sum","<U+0411><U+0430><U+0442><U+0441><U+04AF><U+043C><U+0431><U+044D><U+0440>","Batsumber"
+288,149,"MNG","Mongolia",20,"Töv",288,"Bayan-Önjüül","Soum","Sum","<U+0411><U+0430><U+044F><U+043D>-<U+04E8><U+043D><U+0436><U+04AF><U+04AF><U+043B>","Bayan-Onjuul"
+289,149,"MNG","Mongolia",20,"Töv",289,"Bayanchandmani","Soum","Sum","	<U+0411><U+0430><U+044F><U+043D><U+0447><U+0430><U+043D><U+0434><U+043C><U+0430><U+043D><U+044C>",NA
+290,149,"MNG","Mongolia",20,"Töv",290,"Bayandelger","Soum","Sum","<U+0411><U+0430><U+044F><U+043D><U+0434><U+044D><U+043B><U+0433><U+044D><U+0440>",NA
+291,149,"MNG","Mongolia",20,"Töv",291,"Bayanjargalan","Soum","Sum","<U+0411><U+0430><U+044F><U+043D><U+0436><U+0430><U+0440><U+0433><U+0430><U+043B><U+0430><U+043D>",NA
+292,149,"MNG","Mongolia",20,"Töv",292,"Bayankhangai","Soum","Sum","<U+0411><U+0430><U+044F><U+043D><U+0445><U+0430><U+043D><U+0433><U+0430><U+0439>",NA
+293,149,"MNG","Mongolia",20,"Töv",293,"Bayan","Soum","Sum","	<U+0411><U+0430><U+044F><U+043D>",NA
+294,149,"MNG","Mongolia",20,"Töv",294,"Bayantsagaan","Soum","Sum","<U+0411><U+0430><U+044F><U+043D><U+0446><U+0430><U+0433><U+0430><U+0430><U+043D>",NA
+295,149,"MNG","Mongolia",20,"Töv",295,"Bayantsogt","Soum","Sum","	<U+0411><U+0430><U+044F><U+043D><U+0446><U+043E><U+0433><U+0442>",NA
+296,149,"MNG","Mongolia",20,"Töv",296,"Bornuur","Soum","Sum","<U+0411><U+043E><U+0440><U+043D><U+0443><U+0443><U+0440>",NA
+297,149,"MNG","Mongolia",20,"Töv",297,"Delgerkhaan","Soum","Sum","<U+0414><U+044D><U+043B><U+0433><U+044D><U+0440><U+0445><U+0430><U+0430><U+043D>","Delgerhaan"
+298,149,"MNG","Mongolia",20,"Töv",298,"Erdenesant","Soum","Sum","<U+042D><U+0440><U+0434><U+044D><U+043D><U+044D><U+0441><U+0430><U+043D><U+0442>",NA
+299,149,"MNG","Mongolia",20,"Töv",299,"Erdene","Soum","Sum","<U+042D><U+0440><U+0434><U+044D><U+043D><U+044D>",NA
+300,149,"MNG","Mongolia",20,"Töv",300,"Jargalant","Soum","Sum","<U+0416><U+0430><U+0440><U+0433><U+0430><U+043B><U+0430><U+043D><U+0442>",NA
+301,149,"MNG","Mongolia",20,"Töv",301,"Lün","Soum","Sum","<U+041B><U+04AF><U+043D>","Lun"
+302,149,"MNG","Mongolia",20,"Töv",302,"Möngönmorit","Soum","Sum","<U+041C><U+04E9><U+043D><U+0433><U+04E9><U+043D><U+043C><U+043E><U+0440><U+044C><U+0442>","Mongonmorit"
+303,149,"MNG","Mongolia",20,"Töv",303,"Sümber","Soum","Sum","<U+0421><U+04AF><U+043C><U+0431><U+044D><U+0440>","Sumber"
+304,149,"MNG","Mongolia",20,"Töv",304,"Sergelen","Soum","Sum","<U+0421><U+044D><U+0440><U+0433><U+044D><U+043B><U+044D><U+043D>",NA
+305,149,"MNG","Mongolia",20,"Töv",305,"Tseel","Soum","Sum","<U+0426><U+044D><U+044D><U+043B>",NA
+306,149,"MNG","Mongolia",20,"Töv",306,"Ugtaal","Soum","Sum","<U+0423><U+0433><U+0442><U+0430><U+0430><U+043B>",NA
+307,149,"MNG","Mongolia",20,"Töv",307,"Zaamar","Soum","Sum","<U+0417><U+0430><U+0430><U+043C><U+0430><U+0440>",NA
+308,149,"MNG","Mongolia",21,"Ulaanbaatar",308,"Ulan Bator","Soum","Sum",NA,NA
+309,149,"MNG","Mongolia",22,"Uvs",309,"Ölgii","Soum","Sum","<U+03B8><U+043B><U+0433><U+0438><U+0439>","Olgii"
+310,149,"MNG","Mongolia",22,"Uvs",310,"Ömnögovi","Soum","Sum","<U+03B8><U+043C><U+043D><U+0275><U+0433><U+043E><U+0432><U+044C>","Omnogovi"
+311,149,"MNG","Mongolia",22,"Uvs",311,"Öndörkhangai","Soum","Sum","<U+03B8><U+043D><U+0434><U+0275><U+0440><U+0445><U+0430><U+043D><U+0433><U+0430><U+0439>","Ondorhangai"
+312,149,"MNG","Mongolia",22,"Uvs",312,"Bökhmörön","Soum","Sum","<U+0411><U+0275><U+0445><U+043C><U+0275><U+0440><U+0275><U+043D>","Bohmoron"
+313,149,"MNG","Mongolia",22,"Uvs",313,"Baruuntutuun","Soum","Sum","<U+0411><U+0430><U+0440><U+0443><U+0443><U+043D><U+0442><U+0443><U+0440><U+0443><U+0443><U+043D>","Baruunturuun"
+314,149,"MNG","Mongolia",22,"Uvs",314,"Davst","Soum","Sum","<U+0414><U+0430><U+0432><U+0441><U+0442>",NA
+315,149,"MNG","Mongolia",22,"Uvs",315,"Khovd","Soum","Sum","<U+0425><U+043E><U+0432><U+0434>","Hovd"
+316,149,"MNG","Mongolia",22,"Uvs",316,"Khyargas","Soum","Sum","<U+0425><U+044F><U+0440><U+0433><U+0430><U+0441>","Hyargas"
+317,149,"MNG","Mongolia",22,"Uvs",317,"Malchin","Soum","Sum","<U+041C><U+0430><U+043B><U+0447><U+0438><U+043D>",NA
+318,149,"MNG","Mongolia",22,"Uvs",318,"Naranbulag","Soum","Sum","<U+041D><U+0430><U+0440><U+0430><U+043D><U+0431><U+0443><U+043B><U+0430><U+0433>",NA
+319,149,"MNG","Mongolia",22,"Uvs",319,"Sagil","Soum","Sum","<U+0421><U+0430><U+0433><U+0438><U+043B>",NA
+320,149,"MNG","Mongolia",22,"Uvs",320,"Türgen","Soum","Sum","<U+0422><U+03B3><U+0440><U+0433><U+044D><U+043D>","Turgen"
+321,149,"MNG","Mongolia",22,"Uvs",321,"Tarialan","Soum","Sum","<U+0422><U+0430><U+0440><U+0438><U+0430><U+043B><U+0430><U+043D>","Tarialin"
+322,149,"MNG","Mongolia",22,"Uvs",322,"Tes","Soum","Sum","	<U+0422><U+044D><U+0441>",NA
+323,149,"MNG","Mongolia",22,"Uvs",323,"Tsagaanhairhan","Soum","Sum","<U+0426><U+0430><U+0433><U+0430><U+0430><U+043D><U+0445><U+0430><U+0439><U+0440><U+0445><U+0430><U+043D>",NA
+324,149,"MNG","Mongolia",22,"Uvs",324,"Ulaangom","Soum","Sum","<U+0423><U+043B><U+0430><U+0430><U+043D><U+0433><U+043E><U+043C>",NA
+325,149,"MNG","Mongolia",22,"Uvs",325,"Züüngovi","Soum","Sum","	<U+0417><U+03B3><U+03B3><U+043D><U+0433><U+043E><U+0432><U+044C>","Zuungovi"
+326,149,"MNG","Mongolia",22,"Uvs",326,"Züünkhangai","Soum","Sum","<U+0417><U+03B3><U+03B3><U+043D><U+0445><U+0430><U+043D><U+0433><U+0430><U+0439>","Zuunhangai"
+327,149,"MNG","Mongolia",22,"Uvs",327,"Zavkhan","Soum","Sum","	<U+0417><U+0430><U+0432><U+0445><U+0430><U+043D>","Zavhan"

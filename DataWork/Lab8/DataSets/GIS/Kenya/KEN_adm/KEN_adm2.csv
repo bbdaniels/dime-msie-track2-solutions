@@ -1,0 +1,49 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","TYPE_2","ENGTYPE_2","NL_NAME_2","VARNAME_2"
+1,118,"KEN","Kenya",1,"Central",1,"Kiambu","Wilaya","District",NA,NA
+2,118,"KEN","Kenya",1,"Central",2,"Kirinyaga","Wilaya","District",NA,NA
+3,118,"KEN","Kenya",1,"Central",3,"Machakos","Wilaya","District",NA,NA
+4,118,"KEN","Kenya",1,"Central",4,"Murang'a","Wilaya","District",NA,NA
+5,118,"KEN","Kenya",1,"Central",5,"Nyandarua","Wilaya","District",NA,NA
+6,118,"KEN","Kenya",1,"Central",6,"Nyeri","Wilaya","District",NA,NA
+7,118,"KEN","Kenya",2,"Coast",7,"Kilifi","Wilaya","District",NA,NA
+8,118,"KEN","Kenya",2,"Coast",8,"Kwale","Wilaya","District",NA,NA
+9,118,"KEN","Kenya",2,"Coast",9,"Lamu","Wilaya","District",NA,NA
+10,118,"KEN","Kenya",2,"Coast",10,"Mombasa","Wilaya","District",NA,NA
+11,118,"KEN","Kenya",2,"Coast",11,"Taita Taveta","Wilaya","District",NA,"Taita"
+12,118,"KEN","Kenya",2,"Coast",12,"Tana River","Wilaya","District",NA,NA
+13,118,"KEN","Kenya",3,"Eastern",13,"Embu","Wilaya","District",NA,NA
+14,118,"KEN","Kenya",3,"Eastern",14,"Isiolo","Wilaya","District",NA,NA
+15,118,"KEN","Kenya",3,"Eastern",15,"Kitui","Wilaya","District",NA,NA
+16,118,"KEN","Kenya",3,"Eastern",16,"Machakos","Wilaya","District",NA,NA
+17,118,"KEN","Kenya",3,"Eastern",17,"Makueni","Wilaya","District",NA,NA
+18,118,"KEN","Kenya",3,"Eastern",18,"Marsabit","Wilaya","District",NA,NA
+19,118,"KEN","Kenya",3,"Eastern",19,"Meru","Wilaya","District",NA,NA
+20,118,"KEN","Kenya",3,"Eastern",20,"Nithi","Wilaya","District",NA,NA
+21,118,"KEN","Kenya",3,"Eastern",21,"Wajir","Wilaya","District",NA,NA
+22,118,"KEN","Kenya",4,"Nairobi",22,"Nairobi","Wilaya","District",NA,NA
+23,118,"KEN","Kenya",5,"North-Eastern",23,"Garissa","Wilaya","District",NA,NA
+24,118,"KEN","Kenya",5,"North-Eastern",24,"Mandera","Wilaya","District",NA,NA
+25,118,"KEN","Kenya",5,"North-Eastern",25,"Wajir","Wilaya","District",NA,NA
+26,118,"KEN","Kenya",6,"Nyanza",26,"Homa Bay","Wilaya","District",NA,NA
+27,118,"KEN","Kenya",6,"Nyanza",27,"Kisii","Wilaya","District",NA,NA
+28,118,"KEN","Kenya",6,"Nyanza",28,"Kisumu","Wilaya","District",NA,NA
+29,118,"KEN","Kenya",6,"Nyanza",29,"Migori","Wilaya","District",NA,NA
+30,118,"KEN","Kenya",6,"Nyanza",30,"Nyamira","Wilaya","District",NA,"North Kisii"
+31,118,"KEN","Kenya",6,"Nyanza",31,"Siaya","Wilaya","District",NA,NA
+32,118,"KEN","Kenya",7,"Rift Valley",32,"Baringo","Wilaya","District",NA,NA
+33,118,"KEN","Kenya",7,"Rift Valley",33,"Bomet","Wilaya","District",NA,NA
+34,118,"KEN","Kenya",7,"Rift Valley",34,"Elgeyo-Marakwet","Wilaya","District",NA,"E. Marakwet"
+35,118,"KEN","Kenya",7,"Rift Valley",35,"Kericho","Wilaya","District",NA,NA
+36,118,"KEN","Kenya",7,"Rift Valley",36,"Laikipia","Wilaya","District",NA,NA
+37,118,"KEN","Kenya",7,"Rift Valley",37,"Nakuru","Wilaya","District",NA,NA
+38,118,"KEN","Kenya",7,"Rift Valley",38,"Nandi","Wilaya","District",NA,NA
+39,118,"KEN","Kenya",7,"Rift Valley",39,"Narok","Wilaya","District",NA,NA
+40,118,"KEN","Kenya",7,"Rift Valley",40,"Samburu","Wilaya","District",NA,NA
+41,118,"KEN","Kenya",7,"Rift Valley",41,"Trans-Nzoia","Wilaya","District",NA,NA
+42,118,"KEN","Kenya",7,"Rift Valley",42,"Turkana","Wilaya","District",NA,NA
+43,118,"KEN","Kenya",7,"Rift Valley",43,"Uasin Gishu","Wilaya","District",NA,NA
+44,118,"KEN","Kenya",7,"Rift Valley",44,"West Pokot","Wilaya","District",NA,NA
+45,118,"KEN","Kenya",8,"Western",45,"Bungoma","Wilaya","District",NA,NA
+46,118,"KEN","Kenya",8,"Western",46,"Busia","Wilaya","District",NA,NA
+47,118,"KEN","Kenya",8,"Western",47,"Kakamega","Wilaya","District",NA,NA
+48,118,"KEN","Kenya",8,"Western",48,"Vihiga","Wilaya","District",NA,NA
