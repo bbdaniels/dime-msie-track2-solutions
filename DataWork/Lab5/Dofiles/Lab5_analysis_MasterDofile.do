@@ -18,45 +18,41 @@
    *                                                       *
    * ***************************************************** *
    *
-   *   analysis dofile 1
-   *
-   *   The purpose of this dofiles is:
-   *     (The ideas below are examples on what to include here)
-   *      -what additional data sets does this file require
-   *      -what variables are created
-   *      -what corrections are made
+   *   Lab 5 Randomization dofile 1: Suggested solution
    *
    * ***************************************************** *
 
-       *do "$Lab5_doAnl/dofile1.do" //Give your dofile a more informative name, this is just a place holder name
+       do "$Lab5_doAnl/lab5-randomization1.do"
+
+    * ***************************************************** *
+    *                                                       *
+    * ***************************************************** *
+    *
+    *   Lab 5 Randomization dofile 2: Suggested solution
+    *
+    * ***************************************************** *
+
+        do "$Lab5_doAnl/lab5-randomization2.do"
 
    * ***************************************************** *
-   *
-   *   analysis dofile 2
-   *
-   *   The purpose of this dofiles is:
-   *     (The ideas below are examples on what to include here)
-   *      -what additional data sets does this file require
-   *      -what variables are created
-   *      -what corrections are made
-   *
-   * ***************************************************** *
-
-       *do "$Lab5_doAnl/dofile2.do" //Give your dofile a more informative name, this is just a place holder name
-
+   *                                                       *
    * ***************************************************** *
    *
-   *   analysis dofile 3
-   *
-   *   The purpose of this dofiles is:
-   *     (The ideas below are examples on what to include here)
-   *      -what additional data sets does this file require
-   *      -what variables are created
-   *      -what corrections are made
+   *   Lab 5 Randomization dofile 3: Suggested solution
    *
    * ***************************************************** *
 
-       *do "$Lab5_doAnl/dofile3.do" //Give your dofile a more informative name, this is just a place holder name
+       do "$Lab5_doAnl/lab5-randomization3.do"
 
-   * ************************************
-   *   Keep adding sections for all additional dofiles needed
+   * ***************************************************** *
+   *                                                       *
+   * ***************************************************** *
+   *
+   *   Lab 5 Randomization dofile 4: Suggested solution
+   *
+   * ***************************************************** *
+
+       do "$Lab5_doAnl/lab5-randomization4.do"
+
+
+*

@@ -18,17 +18,11 @@
    *                                                       *
    * ***************************************************** *
    *
-   *   cleaning dofile 1
-   *
-   *   The purpose of this dofiles is:
-   *     (The ideas below are examples on what to include here)
-   *      -what additional data sets does this file require
-   *      -what variables are created
-   *      -what corrections are made
+   *   Lab 2 Cleaning dofile: Suggested solution
    *
    * ***************************************************** *
 
-       *do "$Lab2_doCln/dofile1.do" //Give your dofile a more informative name, this is just a place holder name
+       do "$Lab2_doCln/lab2-cleaning.do" //Give your dofile a more informative name, this is just a place holder name
 
    * ***************************************************** *
    *

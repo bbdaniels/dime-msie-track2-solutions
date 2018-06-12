@@ -79,7 +79,7 @@
    * ---------------------
 
    if $user == 1 {
-       global projectfolder "/Users/bbdaniels/Dropbox/WorldBank/DIME/FC Training/June 2018/Session Materials/Stata Track 2/Solutions"
+       global projectfolder "/Users/bbdaniels/GitHub/dime-msie-track2-solutions/"
    }
 
    if $user == 2 {
@@ -96,45 +96,45 @@
 *iefolder*1*FolderGlobals*master************************************************
 *iefolder will not work properly if the line above is edited
 
-   global mastData               "$dataWorkFolder/MasterData" 
+   global mastData               "$dataWorkFolder/MasterData"
 
 *iefolder*1*FolderGlobals*encrypted*********************************************
 *iefolder will not work properly if the line above is edited
 
-   global encryptFolder          "$dataWorkFolder/EncryptedData" 
+   global encryptFolder          "$dataWorkFolder/EncryptedData"
 
 *iefolder*1*FolderGlobals*Lab7**************************************************
 *iefolder will not work properly if the line above is edited
 
 
    *Encrypted round sub-folder globals
-   global Lab7                   "$dataWorkFolder/Lab7" 
+   global Lab7                   "$dataWorkFolder/Lab7"
 
    *Encrypted round sub-folder globals
-   global Lab7_encrypt           "$encryptFolder/Round Lab7 Encrypted" 
-   global Lab7_dtRaw             "$Lab7_encrypt/Raw Identified Data" 
-   global Lab7_doImp             "$Lab7_encrypt/Dofiles Import" 
-   global Lab7_HFC               "$Lab7_encrypt/High Frequency Checks" 
+   global Lab7_encrypt           "$encryptFolder/Round Lab7 Encrypted"
+   global Lab7_dtRaw             "$Lab7_encrypt/Raw Identified Data"
+   global Lab7_doImp             "$Lab7_encrypt/Dofiles Import"
+   global Lab7_HFC               "$Lab7_encrypt/High Frequency Checks"
 
    *DataSets sub-folder globals
-   global Lab7_dt                "$Lab7/DataSets" 
-   global Lab7_dtInt             "$Lab7_dt/Intermediate" 
-   global Lab7_dtFin             "$Lab7_dt/Final" 
+   global Lab7_dt                "$Lab7/DataSets"
+   global Lab7_dtInt             "$Lab7_dt/Intermediate"
+   global Lab7_dtFin             "$Lab7_dt/Final"
 
    *Dofile sub-folder globals
-   global Lab7_do                "$Lab7/Dofiles" 
-   global Lab7_doCln             "$Lab7_do/Cleaning" 
-   global Lab7_doCon             "$Lab7_do/Construct" 
-   global Lab7_doAnl             "$Lab7_do/Analysis" 
+   global Lab7_do                "$Lab7/Dofiles"
+   global Lab7_doCln             "$Lab7_do/Cleaning"
+   global Lab7_doCon             "$Lab7_do/Construct"
+   global Lab7_doAnl             "$Lab7_do/Analysis"
 
    *Output sub-folder globals
-   global Lab7_out               "$Lab7/Output" 
-   global Lab7_outRaw            "$Lab7_out/Raw" 
-   global Lab7_outFin            "$Lab7_out/Final" 
+   global Lab7_out               "$Lab7/Output"
+   global Lab7_outRaw            "$Lab7_out/Raw"
+   global Lab7_outFin            "$Lab7_out/Final"
 
    *Questionnaire sub-folder globals
-   global Lab7_prld              "$Lab7_quest/PreloadData" 
-   global Lab7_doc               "$Lab7_quest/Questionnaire Documentation" 
+   global Lab7_prld              "$Lab7_quest/PreloadData"
+   global Lab7_doc               "$Lab7_quest/Questionnaire Documentation"
 
 *iefolder*1*End_FolderGlobals***************************************************
 *iefolder will not work properly if the line above is edited
@@ -148,7 +148,7 @@
    * standardization, differnt set of control variables,
    * ado file paths etc.
 
-   do "$dataWorkFolder/global_setup.do" 
+   do "$dataWorkFolder/global_setup.do"
 
 
 *iefolder*2*End_StandardGlobals*************************************************
@@ -163,9 +163,9 @@
    *       PART 3: - RUN DOFILES CALLED BY THIS MASTER DO FILE
    *
    *           -A task master dofile has been created for each high
-   *            level task (cleaning, construct, analyze). By 
-   *            running all of them all data work associated with the 
-   *            Lab7 should be replicated, including output of 
+   *            level task (cleaning, construct, analyze). By
+   *            running all of them all data work associated with the
+   *            Lab7 should be replicated, including output of
    *            tablets, graphs, etc.
    *           -Feel free to add to this list if you have other high
    *            level tasks relevant to your project.
@@ -177,24 +177,23 @@
    local importDo       0
    local cleaningDo     0
    local constructDo    0
-   local analysisDo     0
+   local analysisDo     1
 
    if (`importDo' == 1) { //Change the local above to run or not to run this file
-       do "$Lab7_doImp/Lab7_import_MasterDofile.do" 
+       do "$Lab7_doImp/Lab7_import_MasterDofile.do"
    }
 
    if (`cleaningDo' == 1) { //Change the local above to run or not to run this file
-       do "$Lab7_do/Lab7_cleaning_MasterDofile.do" 
+       do "$Lab7_do/Lab7_cleaning_MasterDofile.do"
    }
 
    if (`constructDo' == 1) { //Change the local above to run or not to run this file
-       do "$Lab7_do/Lab7_construct_MasterDofile.do" 
+       do "$Lab7_do/Lab7_construct_MasterDofile.do"
    }
 
    if (`analysisDo' == 1) { //Change the local above to run or not to run this file
-       do "$Lab7_do/Lab7_analysis_MasterDofile.do" 
+       do "$Lab7_do/Lab7_analysis_MasterDofile.do"
    }
 
 *iefolder*3*End_RunDofiles******************************************************
 *iefolder will not work properly if the line above is edited
-

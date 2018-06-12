@@ -18,13 +18,7 @@
    *                                                       *
    * ***************************************************** *
    *
-   *   cleaning dofile 1
-   *
-   *   The purpose of this dofiles is:
-   *     (The ideas below are examples on what to include here)
-   *      -what additional data sets does this file require
-   *      -what variables are created
-   *      -what corrections are made
+   *   Lab 3 Cleaning dofile: Suggested solution
    *
    * ***************************************************** *
 

@@ -79,7 +79,7 @@
    * ---------------------
 
    if $user == 1 {
-       global projectfolder "/Users/bbdaniels/Dropbox/WorldBank/DIME/FC Training/June 2018/Session Materials/Stata Track 2/Solutions"
+       global projectfolder "/Users/bbdaniels/GitHub/dime-msie-track2-solutions/"
    }
 
    if $user == 2 {
@@ -96,45 +96,45 @@
 *iefolder*1*FolderGlobals*master************************************************
 *iefolder will not work properly if the line above is edited
 
-   global mastData               "$dataWorkFolder/MasterData" 
+   global mastData               "$dataWorkFolder/MasterData"
 
 *iefolder*1*FolderGlobals*encrypted*********************************************
 *iefolder will not work properly if the line above is edited
 
-   global encryptFolder          "$dataWorkFolder/EncryptedData" 
+   global encryptFolder          "$dataWorkFolder/EncryptedData"
 
 *iefolder*1*FolderGlobals*Lab2**************************************************
 *iefolder will not work properly if the line above is edited
 
 
    *Encrypted round sub-folder globals
-   global Lab2                   "$dataWorkFolder/Lab2" 
+   global Lab2                   "$dataWorkFolder/Lab2"
 
    *Encrypted round sub-folder globals
-   global Lab2_encrypt           "$encryptFolder/Round Lab2 Encrypted" 
-   global Lab2_dtRaw             "$Lab2_encrypt/Raw Identified Data" 
-   global Lab2_doImp             "$Lab2_encrypt/Dofiles Import" 
-   global Lab2_HFC               "$Lab2_encrypt/High Frequency Checks" 
+   global Lab2_encrypt           "$encryptFolder/Round Lab2 Encrypted"
+   global Lab2_dtRaw             "$Lab2_encrypt/Raw Identified Data"
+   global Lab2_doImp             "$Lab2_encrypt/Dofiles Import"
+   global Lab2_HFC               "$Lab2_encrypt/High Frequency Checks"
 
    *DataSets sub-folder globals
-   global Lab2_dt                "$Lab2/DataSets" 
-   global Lab2_dtInt             "$Lab2_dt/Intermediate" 
-   global Lab2_dtFin             "$Lab2_dt/Final" 
+   global Lab2_dt                "$Lab2/DataSets"
+   global Lab2_dtInt             "$Lab2_dt/Intermediate"
+   global Lab2_dtFin             "$Lab2_dt/Final"
 
    *Dofile sub-folder globals
-   global Lab2_do                "$Lab2/Dofiles" 
-   global Lab2_doCln             "$Lab2_do/Cleaning" 
-   global Lab2_doCon             "$Lab2_do/Construct" 
-   global Lab2_doAnl             "$Lab2_do/Analysis" 
+   global Lab2_do                "$Lab2/Dofiles"
+   global Lab2_doCln             "$Lab2_do/Cleaning"
+   global Lab2_doCon             "$Lab2_do/Construct"
+   global Lab2_doAnl             "$Lab2_do/Analysis"
 
    *Output sub-folder globals
-   global Lab2_out               "$Lab2/Output" 
-   global Lab2_outRaw            "$Lab2_out/Raw" 
-   global Lab2_outFin            "$Lab2_out/Final" 
+   global Lab2_out               "$Lab2/Output"
+   global Lab2_outRaw            "$Lab2_out/Raw"
+   global Lab2_outFin            "$Lab2_out/Final"
 
    *Questionnaire sub-folder globals
-   global Lab2_prld              "$Lab2_quest/PreloadData" 
-   global Lab2_doc               "$Lab2_quest/Questionnaire Documentation" 
+   global Lab2_prld              "$Lab2_quest/PreloadData"
+   global Lab2_doc               "$Lab2_quest/Questionnaire Documentation"
 
 *iefolder*1*End_FolderGlobals***************************************************
 *iefolder will not work properly if the line above is edited
@@ -148,7 +148,7 @@
    * standardization, differnt set of control variables,
    * ado file paths etc.
 
-   do "$dataWorkFolder/global_setup.do" 
+   do "$dataWorkFolder/global_setup.do"
 
 
 *iefolder*2*End_StandardGlobals*************************************************
@@ -163,9 +163,9 @@
    *       PART 3: - RUN DOFILES CALLED BY THIS MASTER DO FILE
    *
    *           -A task master dofile has been created for each high
-   *            level task (cleaning, construct, analyze). By 
-   *            running all of them all data work associated with the 
-   *            Lab2 should be replicated, including output of 
+   *            level task (cleaning, construct, analyze). By
+   *            running all of them all data work associated with the
+   *            Lab2 should be replicated, including output of
    *            tablets, graphs, etc.
    *           -Feel free to add to this list if you have other high
    *            level tasks relevant to your project.
@@ -175,26 +175,25 @@
    **Set the locals corresponding to the taks you want
    * run to 1. To not run a task, set the local to 0.
    local importDo       0
-   local cleaningDo     0
+   local cleaningDo     1
    local constructDo    0
-   local analysisDo     0
+   local analysisDo     1
 
    if (`importDo' == 1) { //Change the local above to run or not to run this file
-       do "$Lab2_doImp/Lab2_import_MasterDofile.do" 
+       do "$Lab2_doImp/Lab2_import_MasterDofile.do"
    }
 
    if (`cleaningDo' == 1) { //Change the local above to run or not to run this file
-       do "$Lab2_do/Lab2_cleaning_MasterDofile.do" 
+       do "$Lab2_do/Lab2_cleaning_MasterDofile.do"
    }
 
    if (`constructDo' == 1) { //Change the local above to run or not to run this file
-       do "$Lab2_do/Lab2_construct_MasterDofile.do" 
+       do "$Lab2_do/Lab2_construct_MasterDofile.do"
    }
 
    if (`analysisDo' == 1) { //Change the local above to run or not to run this file
-       do "$Lab2_do/Lab2_analysis_MasterDofile.do" 
+       do "$Lab2_do/Lab2_analysis_MasterDofile.do"
    }
 
 *iefolder*3*End_RunDofiles******************************************************
 *iefolder will not work properly if the line above is edited
-

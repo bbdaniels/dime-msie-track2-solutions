@@ -86,7 +86,7 @@
    * ---------------------
 
    if $user == 1 {
-       global projectfolder "/Users/bbdaniels/Dropbox/WorldBank/DIME/FC Training/June 2018/Session Materials/Stata Track 2/Solutions"
+       global projectfolder "/Users/bbdaniels/GitHub/dime-msie-track2-solutions/"
    }
 
    if $user == 2 {
@@ -190,11 +190,11 @@
 *iefolder will not work properly if the line above is edited
 
    *Lab8 folder globals
-   global Lab8                   "$dataWorkFolder/Lab8" 
-   global Lab8_encrypt           "$encryptFolder/Round Lab8 Encrypted" 
-   global Lab8_dt                "$Lab8/DataSets" 
-   global Lab8_do                "$Lab8/Dofiles" 
-   global Lab8_out               "$Lab8/Output" 
+   global Lab8                   "$dataWorkFolder/Lab8"
+   global Lab8_encrypt           "$encryptFolder/Round Lab8 Encrypted"
+   global Lab8_dt                "$Lab8/DataSets"
+   global Lab8_do                "$Lab8/Dofiles"
+   global Lab8_out               "$Lab8/Output"
 
 *iefolder*1*FolderGlobals*endRounds*********************************************
 *iefolder will not work properly if the line above is edited
@@ -289,7 +289,7 @@
 *iefolder will not work properly if the line above is edited
 
    if (0) { //Change the 0 to 1 to run the Lab8 master dofile
-       do "$Lab8/Lab8_MasterDofile.do" 
+       do "$Lab8/Lab8_MasterDofile.do"
    }
 
 *iefolder*3*End_RunDofiles******************************************************

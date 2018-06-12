@@ -79,7 +79,7 @@
    * ---------------------
 
    if $user == 1 {
-       global projectfolder "/Users/bbdaniels/Dropbox/WorldBank/DIME/FC Training/June 2018/Session Materials/Stata Track 2/Solutions"
+       global projectfolder "/Users/bbdaniels/GitHub/dime-msie-track2-solutions/"
    }
 
    if $user == 2 {
@@ -175,7 +175,7 @@
    **Set the locals corresponding to the taks you want
    * run to 1. To not run a task, set the local to 0.
    local importDo       0
-   local cleaningDo     0
+   local cleaningDo     1
    local constructDo    0
    local analysisDo     0
 

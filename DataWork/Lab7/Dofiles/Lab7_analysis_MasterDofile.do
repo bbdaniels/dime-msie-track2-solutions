@@ -18,17 +18,11 @@
    *                                                       *
    * ***************************************************** *
    *
-   *   analysis dofile 1
-   *
-   *   The purpose of this dofiles is:
-   *     (The ideas below are examples on what to include here)
-   *      -what additional data sets does this file require
-   *      -what variables are created
-   *      -what corrections are made
+   *   Lab 7 analysis analysis dofile: suggested solution
    *
    * ***************************************************** *
 
-       *do "$Lab7_doAnl/dofile1.do" //Give your dofile a more informative name, this is just a place holder name
+       do "$Lab7_doAnl/lab7-analysis.do" //Give your dofile a more informative name, this is just a place holder name
 
    * ***************************************************** *
    *
