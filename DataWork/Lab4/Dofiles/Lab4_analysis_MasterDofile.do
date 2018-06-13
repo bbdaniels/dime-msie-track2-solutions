@@ -28,7 +28,7 @@
    *
    * ***************************************************** *
 
-       *do "$Lab4_doAnl/dofile1.do" //Give your dofile a more informative name, this is just a place holder name
+       do "${Lab4_doAnl}/lab4-HFC.do" //Give your dofile a more informative name, this is just a place holder name
 
    * ***************************************************** *
    *
