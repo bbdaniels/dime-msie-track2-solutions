@@ -10,7 +10,7 @@
 
 	global graph_opts1 ///
 		title(, justification(left) color(black) span pos(11)) ///
-		graphregion(color(white) lc(white) lw(med) la(center)) ///
+		graphregion(color(white) lc(white) lw(med) la(center)) /// <- Delete la(center) for version < 15
 		ylab(,angle(0) nogrid)  ///
 		yscale(noline) legend(region(lc(none) fc(none)))
 
