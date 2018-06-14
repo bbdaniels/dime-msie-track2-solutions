@@ -82,10 +82,10 @@
        global projectfolder "/Users/bbdaniels/GitHub/dime-msie-track2-solutions/"
    }
 
-   if $user == 2 {
-       global projectfolder ""  //Enter the file path to the projectfolder of next user here
+   if c(username) == "kbrkb" {
+       global projectfolder "C:\Users\kbrkb\Documents\GitHub\dime-msie-track2-solutions"  //Enter the file path to the projectfolder of next user here
    }
-
+   
 *These lines are used to test that name ois not already used (do not edit manually)
 
    * Project folder globals
